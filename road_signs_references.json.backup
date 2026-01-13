@@ -1,0 +1,933 @@
+{
+  "signs": [
+    {
+      "reference": "WIEN:A1",
+      "name": "Dangerous Bends"
+    },
+    {
+      "reference": "WIEN:A1a",
+      "name": "Dangerous Bends (left)"
+    },
+    {
+      "reference": "WIEN:A1b",
+      "name": "Dangerous Bends (right)"
+    },
+    {
+      "reference": "WIEN:A1c",
+      "name": "Double Bend First to Left"
+    },
+    {
+      "reference": "WIEN:A1d",
+      "name": "Double Bend First to Right"
+    },
+    {
+      "reference": "WIEN:A2a",
+      "name": "Steep descent"
+    },
+    {
+      "reference": "WIEN:A2b",
+      "name": "Two steep descents"
+    },
+    {
+      "reference": "WIEN:A2c",
+      "name": "Steep ascent and descent"
+    },
+    {
+      "reference": "WIEN:A3a",
+      "name": "Steep ascent"
+    },
+    {
+      "reference": "WIEN:A3b",
+      "name": "Two steep ascents"
+    },
+    {
+      "reference": "WIEN:A3c",
+      "name": "Descent and steep ascent"
+    },
+    {
+      "reference": "WIEN:A4a",
+      "name": "Carriageway Narrows"
+    },
+    {
+      "reference": "WIEN:A4b",
+      "name": "Carriageway Narrows on Right"
+    },
+    {
+      "reference": "WIEN:A4c",
+      "name": "Carriageway Narrows on Left"
+    },
+    {
+      "reference": "WIEN:A5",
+      "name": "Swing Bridge"
+    },
+    {
+      "reference": "WIEN:A6",
+      "name": "Road leads on to quay or river bank"
+    },
+    {
+      "reference": "WIEN:A7a",
+      "name": "Uneven Road"
+    },
+    {
+      "reference": "WIEN:A7b",
+      "name": "Speed Bumps"
+    },
+    {
+      "reference": "WIEN:A7c",
+      "name": "Dip"
+    },
+    {
+      "reference": "WIEN:A8",
+      "name": "Dangerous Shoulders"
+    },
+    {
+      "reference": "WIEN:A9",
+      "name": "Slippery Road"
+    },
+    {
+      "reference": "WIEN:A10a",
+      "name": "Loose Chippings"
+    },
+    {
+      "reference": "WIEN:A10b",
+      "name": "Loose Gravel"
+    },
+    {
+      "reference": "WIEN:A11a",
+      "name": "Falling Rocks"
+    },
+    {
+      "reference": "WIEN:A11b",
+      "name": "Falling Rocks (alternative)"
+    },
+    {
+      "reference": "WIEN:A12a",
+      "name": "Pedestrian Crossing"
+    },
+    {
+      "reference": "WIEN:A12b",
+      "name": "Pedestrian Crossing (alternative)"
+    },
+    {
+      "reference": "WIEN:A13",
+      "name": "Children"
+    },
+    {
+      "reference": "WIEN:A14",
+      "name": "Cyclists entering or crossing"
+    },
+    {
+      "reference": "WIEN:A15a",
+      "name": "Cattle or other animals crossing"
+    },
+    {
+      "reference": "WIEN:A16",
+      "name": "Roadworks"
+    },
+    {
+      "reference": "WIEN:A17",
+      "name": "Traffic Lights"
+    },
+    {
+      "reference": "WIEN:A17a",
+      "name": "Traffic Lights (Right-hand Side)"
+    },
+    {
+      "reference": "WIEN:A17b",
+      "name": "Traffic Lights (Left-hand Side)"
+    },
+
+    {
+      "reference": "WIEN:A18a",
+      "name": "Intersection Under General Priority"
+    },
+    {
+      "reference": "WIEN:A18b",
+      "name": "Intersection Under General Priority (alternative)"
+    },
+    {
+      "reference": "WIEN:A18c",
+      "name": "Intersection Under General Priority (alternative)"
+    },
+    {
+      "reference": "WIEN:A18d",
+      "name": "Intersection Under General Priority (alternative)"
+    },
+    {
+      "reference": "WIEN:A18e",
+      "name": "Intersection Under General Priority (alternative)"
+    },
+    {
+      "reference": "WIEN:A18f",
+      "name": "Intersection Under General Priority (alternative)"
+    },
+    {
+      "reference": "WIEN:A19a",
+      "name": "Intersection with Priority"
+    },
+    {
+      "reference": "WIEN:A19b",
+      "name": "Intersection with Priority (alternative)"
+    },
+    {
+      "reference": "WIEN:A19c",
+      "name": "Intersection with Priority (alternative)"
+    },
+    {
+      "reference": "WIEN:A20",
+      "name": "Give Way Ahead"
+    },
+    {
+      "reference": "WIEN:A21",
+      "name": "Stop Ahead"
+    },
+    {
+      "reference": "WIEN:A22",
+      "name": "Roundabout"
+    },
+    {
+      "reference": "WIEN:A23",
+      "name": "Two-Way Traffic"
+    },
+    {
+      "reference": "WIEN:A24",
+      "name": "Traffic Congestion"
+    },
+    {
+      "reference": "WIEN:A25",
+      "name": "Level Crossing Ahead (with Gates)"
+    },
+    {
+      "reference": "WIEN:A26a",
+      "name": "Level Crossing Ahead (without Gates)"
+    },
+    {
+      "reference": "WIEN:A26b",
+      "name": "Level Crossing Ahead (without Gates) (alternative)"
+    },
+    {
+      "reference": "WIEN:A27",
+      "name": "Tramway"
+    },
+    {
+      "reference": "WIEN:A28a",
+      "name": "Level Crossing"
+    },
+    {
+      "reference": "WIEN:A28b",
+      "name": "Level Crossing (two tracks)"
+    },
+    {
+      "reference": "WIEN:A28c",
+      "name": "Level Crossing (two tracks) (alternative)"
+    },
+    {
+      "reference": "WIEN:A29a",
+      "name": "Countdown Beacons to a Level Crossing - 3 Beacons"
+    },
+    {
+      "reference": "WIEN:A29b",
+      "name": "Countdown Beacons to a Level Crossing - 2 Beacons"
+    },
+    {
+      "reference": "WIEN:A29c",
+      "name": "Countdown Beacons to a Level Crossing - 1 Beacon"
+    },
+    {
+      "reference": "WIEN:A30",
+      "name": "Low-Flying Aircraft"
+    },
+    {
+      "reference": "WIEN:A31",
+      "name": "Crosswinds"
+    },
+    {
+      "reference": "WIEN:A32",
+      "name": "Danger"
+    },
+    {
+      "reference": "WIEN:A33",
+      "name": "Pedestrians"
+    },
+    {
+      "reference": "WIEN:A34",
+      "name": "Slippery Road - Ice or Snow"
+    },
+    {
+      "reference": "WIEN:A35",
+      "name": "Accident"
+    },
+    {
+      "reference": "WIEN:A36",
+      "name": "Reduced Visibility"
+    },
+    {
+      "reference": "WIEN:B1",
+      "name": "Give Way"
+    },
+    {
+      "reference": "WIEN:B2a",
+      "name": "Stop (Octogonal Sign)"
+    },
+    {
+      "reference": "WIEN:B2b",
+      "name": "Stop (Circular Sign)"
+    },
+    {
+      "reference": "WIEN:B3",
+      "name": "Priority Road"
+    },
+    {
+      "reference": "WIEN:B4",
+      "name": "End of Priority"
+    },
+    {
+      "reference": "WIEN:B5",
+      "name": "Priority for Oncoming Traffic"
+    },
+    {
+      "reference": "WIEN:B6",
+      "name": "Priority Over Oncoming Traffic"
+    },
+    {
+      "reference": "WIEN:C1",
+      "name": "No Entry"
+    },
+    {
+      "reference": "WIEN:C2",
+      "name": "Closed to All Vehicles in Both Directions"
+    },
+    {
+      "reference": "WIEN:C3a",
+      "name": "No Entry for Any Power Driven Vehicle Except Two-Wheeled Motor Cycles Without Sidecar"
+    },
+    {
+      "reference": "WIEN:C3b",
+      "name": "No Entry for Motor Cycles"
+    },
+    {
+      "reference": "WIEN:C3c",
+      "name": "No Entry for Cycles"
+    },
+    {
+      "reference": "WIEN:C3d",
+      "name": "No Entry for Mopeds"
+    },
+    {
+      "reference": "WIEN:C3e",
+      "name": "No Entry for Goods Vehicles"
+    },
+    {
+      "reference": "WIEN:C3h",
+      "name": "No Entry for Vehicles Carrying Dangerous Goods for Which Special Sign Plating is Prescribed"
+    },
+    {
+      "reference": "WIEN:C3i",
+      "name": "No Entry for Pedestrians"
+    },
+    {
+      "reference": "WIEN:C3j",
+      "name": "No Entry for Animal-Drawn Vehicles"
+    },
+    {
+      "reference": "WIEN:C3k",
+      "name": "No Entry for Handcarts"
+    },
+    {
+      "reference": "WIEN:C3l",
+      "name": "No Entry for Power Driven Agricultural Vehicles"
+    },
+    {
+      "reference": "WIEN:C4a",
+      "name": "No Entry for Power Driven Vehicles"
+    },
+    {
+      "reference": "WIEN:C4b",
+      "name": "No Entry for Power Driven Vehicles or Animal-Drawn Vehicles"
+    },
+    {
+      "reference": "WIEN:C5",
+      "name": "No Entry for Vehicles Having an Overall Width Exceeding ... Metres"
+    },
+    {
+      "reference": "WIEN:C6",
+      "name": "No Entry for Vehicles Having an Overall Height Exceeding ... Metres"
+    },
+    {
+      "reference": "WIEN:C7",
+      "name": "No Entry for Vehicles Exceeding ... Tonnes Laden Mass"
+    },
+    {
+      "reference": "WIEN:C8",
+      "name": "No Entry for Vehicles Having a Mass Exceeding ... Tonnes on One Axle"
+    },
+    {
+      "reference": "WIEN:C9",
+      "name": "No Entry for Vehicles or Combinations of Vehicles Exceeding ... Metres in Length"
+    },
+    {
+      "reference": "WIEN:C10",
+      "name": "Driving of Vehicles Less Than ... Metres Apart Prohibited"
+    },
+    {
+      "reference": "WIEN:C11a",
+      "name": "No Left Turn"
+    },
+    {
+      "reference": "WIEN:C11b",
+      "name": "No Right Turn"
+    },
+    {
+      "reference": "WIEN:C12",
+      "name": "No U-Turn"
+    },
+    {
+      "reference": "WIEN:C13a",
+      "name": "Overtaking Prohibited"
+    },
+    {
+      "reference": "WIEN:C13b",
+      "name": "Overtaking by Good Vehicles Prohibited"
+    },
+    {
+      "reference": "WIEN:C14",
+      "name": "Maximum Speed Limit to ... Kilometres per Hour"
+    },
+    {
+      "reference": "WIEN:C15",
+      "name": "Use of Audible Warning Devices Prohibited"
+    },
+    {
+      "reference": "WIEN:C16",
+      "name": "Passing Without Stopping Prohibited"
+    },
+    {
+      "reference": "WIEN:C17a",
+      "name": "End of All Local Prohibitions Imposed on Moving Vehicles"
+    },
+    {
+      "reference": "WIEN:C17b",
+      "name": "End of Speed Limit"
+    },
+    {
+      "reference": "WIEN:C17c",
+      "name": "End of Overtaking Prohibition"
+    },
+    {
+      "reference": "WIEN:C18",
+      "name": "Parking Prohibited"
+    },
+    {
+      "reference": "WIEN:C19",
+      "name": "Stopping and Parking Prohibited"
+    },
+    {
+      "reference": "WIEN:C20a",
+      "name": "Alternate Parking"
+    },
+    {
+      "reference": "WIEN:C20b",
+      "name": "Alternate Parking (alternative)"
+    },
+    {
+      "reference": "WIEN:D1",
+      "name": "Direction to be followed"
+    },
+    {
+      "reference": "WIEN:D2",
+      "name": "Pass This Side"
+    },
+    {
+      "reference": "WIEN:D3",
+      "name": "Compulsory Roundabout"
+    },
+    {
+      "reference": "WIEN:D4",
+      "name": "Compulsory Cycle Track"
+    },
+    {
+      "reference": "WIEN:D5",
+      "name": "Compulsory Footpath"
+    },
+    {
+      "reference": "WIEN:D6",
+      "name": "Compulsory Track for Riders on Horseback"
+    },
+    {
+      "reference": "WIEN:D7",
+      "name": "Compulsory Minimum Speed"
+    },
+    {
+      "reference": "WIEN:D8",
+      "name": "End of Compulsory Minimum Speed"
+    },
+    {
+      "reference": "WIEN:D9",
+      "name": "Snow Chains Compulsory"
+    },
+    {
+      "reference": "WIEN:D10a",
+      "name": "Mandatory Direction for Vehicles Carrying Dangerous Goods"
+    },
+    {
+      "reference": "WIEN:D10b",
+      "name": "Mandatory Direction for Vehicles Carrying Dangerous Goods (alternative)"
+    },
+    {
+      "reference": "WIEN:D10c",
+      "name": "Mandatory Direction for Vehicles Carrying Dangerous Goods (alternative)"
+    },
+    {
+      "reference": "WIEN:D11",
+      "name": "Combination Signs"
+    },
+    {
+      "reference": "WIEN:E1a",
+      "name": "Compulsory minimum speed applying to different lanes"
+    },
+    {
+      "reference": "WIEN:E1b",
+      "name": "Compulsory minimum speed applying to one lane"
+    },
+    {
+      "reference": "WIEN:E1c",
+      "name": "Speed limits applying to different lanes"
+    },
+    {
+      "reference": "WIEN:E2",
+      "name": "Lanes reserved for buses"
+    },
+    {
+      "reference": "WIEN:E3a",
+      "name": "One Way"
+    },
+    {
+      "reference": "WIEN:E3b",
+      "name": "One Way Right"
+    },
+    {
+      "reference": "WIEN:E4",
+      "name": "Preselection sign"
+    },
+    {
+      "reference": "WIEN:E5a",
+      "name": "Motorway"
+    },
+    {
+      "reference": "WIEN:E5b",
+      "name": "End of motorway"
+    },
+    {
+      "reference": "WIEN:E6a",
+      "name": "Road for Motor Vehicles"
+    },
+    {
+      "reference": "WIEN:E6b",
+      "name": "End of Road for Motor Vehicles"
+    },
+    {
+      "reference": "WIEN:E7a",
+      "name": "Beginning of a Built-Up Area (just the name of the place)"
+    },
+    {
+      "reference": "WIEN:E7b",
+      "name": "Beginning of a Built-Up Area (village silhouette)"
+    },
+    {      
+      "reference": "WIEN:E7c",
+      "name": "Beginning of a Built-Up Area (name of the place and village silhouette)"
+    },
+    {
+      "reference": "WIEN:E7d",
+      "name": "Beginning of a Built-Up Area (name of the place with blue background)"
+    },
+    {
+      "reference": "WIEN:E8a",
+      "name": "End of a Built-Up Area"
+    },
+    {
+      "reference": "WIEN:E8b",
+      "name": "End of a Built-Up Area (village silhouette)"
+    },
+    {      
+      "reference": "WIEN:E8c",
+      "name": "End of a Built-Up Area (name of the place and village silhouette)"
+    },
+    {
+      "reference": "WIEN:E8d",
+      "name": "End of a Built-Up Area (name of the place with blue background)"
+    },
+    {
+      "reference": "WIEN:E9a",
+      "name": "Zone in which parking is prohibited"
+    },
+    {
+      "reference": "WIEN:E9b",
+      "name": "Zone in which parking is prohibited at certain times"
+    },
+    {
+      "reference": "WIEN:E9c",
+      "name": "Parking zone"
+    },
+    {
+      "reference": "WIEN:E9d",
+      "name": "Maximum speed zone"
+    },
+    {
+      "reference": "WIEN:E10a",
+      "name": "End of zone in which parking is prohibited"
+    },
+    {
+      "reference": "WIEN:E10b",
+      "name": "End of zone in which parking is prohibited at certain times"
+    },
+    {
+      "reference": "WIEN:E10c",
+      "name": "End of parking zone"
+    },
+    {
+      "reference": "WIEN:E10d",
+      "name": "End of maximum speed zone"
+    },
+    {
+      "reference": "WIEN:E11a",
+      "name": "Tunnel"
+    },
+    {
+      "reference": "WIEN:E11b",
+      "name": "End of Tunnel"
+    },
+    {
+      "reference": "WIEN:E12a",
+      "name": "Pedestrian Crossing"
+    },
+    {
+      "reference": "WIEN:E12b",
+      "name": "Pedestrian Crossing (alternative)"
+    },
+    {
+      "reference": "WIEN:E12C",
+      "name": "Pedestrian Crossing (alternative)"
+    },
+    {
+      "reference": "WIEN:E13a",
+      "name": "Hospital (H symbol)"
+    },
+    {
+      "reference": "WIEN:E13b",
+      "name": "Hospital (Bed and cross symbol)"
+    },
+    {
+      "reference": "WIEN:E14a",
+      "name": "Parking"
+    },
+    {
+      "reference": "WIEN:E14b",
+      "name": "Parking and Metro Station"
+    },
+    {
+      "reference": "WIEN:E14c",
+      "name": "Parking and Train Station"
+    },
+    {
+      "reference": "WIEN:E15",
+      "name": "Bus Stop"
+    },
+    {
+      "reference": "WIEN:E16",
+      "name": "Tram Stop"
+    },
+    {      
+      "reference": "WIEN:E18a",
+      "name": "Emergency stopping place"
+    },
+    {
+      "reference": "WIEN:E18b",
+      "name": "Emergency stopping place (alternative)"
+    },
+    {
+      "reference": "WIEN:F1a",
+      "name": "First Aid Station (cross symbol)"
+    },
+    {
+      "reference": "WIEN:F1b",
+      "name": "First Aid Station (Moon symbol)"
+    },
+    {
+      "reference": "WIEN:F1c",
+      "name": "First Aid Station (Star of Life symbol)"
+    },
+    {
+      "reference": "WIEN:F2",
+      "name": "Breakdown Service"
+    },
+    {
+      "reference": "WIEN:F3",
+      "name": "Telephone"
+    },
+    {
+      "reference": "WIEN:F4",
+      "name": "Filling Station"
+    },
+    {
+      "reference": "WIEN:F5",
+      "name": "Hotel or Motel"
+    },
+    {
+      "reference": "WIEN:F6",
+      "name": "Restaurant"
+    },
+    {
+      "reference": "WIEN:F7",
+      "name": "Refreshments or Cafeteria"
+    },
+    {
+      "reference": "WIEN:F8",
+      "name": "Picnic Site"
+    },
+    {
+      "reference": "WIEN:F9",
+      "name": "Starting Point for Walks"
+    },
+    {
+      "reference": "WIEN:F10",
+      "name": "Camping Site"
+    },
+    {
+      "reference": "WIEN:F11",
+      "name": "Caravan Site"
+    },
+    {
+      "reference": "WIEN:F12",
+      "name": "Camping and Caravan Site"
+    },
+    {
+      "reference": "WIEN:F13",
+      "name": "Youth Hostel"
+    },
+    {
+      "reference": "WIEN:F14",
+      "name": "Radio Stations Giving Traffic Information"
+    },
+    {
+      "reference": "WIEN:F15",
+      "name": "Public Lavatory"
+    },
+    {
+      "reference": "WIEN:F16",
+      "name": "Beach or Swimming Pool"
+    },
+    {
+      "reference": "WIEN:F17",
+      "name": "Emergency Telephone"
+    },
+    {
+      "reference": "WIEN:F18",
+      "name": "Extinguisher"
+    },
+    {
+      "reference": "WIEN:G1a",
+      "name": "Direction to be Followed to Reach Various Destinations"
+    },
+    {
+      "reference": "WIEN:G1b",
+      "name": "Direction to be Followed to Reach Various Destinations (alternative)"
+    },
+    {
+      "reference": "WIEN:G1c",
+      "name": "Direction to be Followed to Reach Various Destinations (alternative)"
+    },
+    {
+      "reference": "WIEN:G2a",
+      "name": "No Through Road ahead"
+    },
+    {
+      "reference": "WIEN:G2b",
+      "name": "No Through Road ahead (alternative)"
+    },
+    {
+      "reference": "WIEN:G3",
+      "name": "Direction to take when other direction is prohibited"
+    },
+    {
+      "reference": "WIEN:G4",
+      "name": "Direction of a place"
+    },
+    {
+      "reference": "WIEN:G5",
+      "name": "Direction of a place (alternative)"
+    },
+    {
+      "reference": "WIEN:G6a",
+      "name": "Direction of an airfield"
+    },
+    {
+      "reference": "WIEN:G6b",
+      "name": "Direction of an airfield (alternative)"
+    },
+    {
+      "reference": "WIEN:G6c",
+      "name": "Direction of an airfield (alternative)"
+    },
+    {
+      "reference": "WIEN:G7",
+      "name": "Direction of a camping site"
+    },
+    {
+      "reference": "WIEN:G8",
+      "name": "Direction of a youth hostel"
+    },
+    {
+      "reference": "WIEN:G9",
+      "name": "Direction of a car parking"
+    },
+    {
+      "reference": "WIEN:G10",
+      "name": "Confirmatory signs"
+    },
+    {
+      "reference": "WIEN:G11a",
+      "name": "Number and direction of traffic lanes"
+    },
+    {
+      "reference": "WIEN:G11b",
+      "name": "Number and direction of traffic lanes (alternative)"
+    },
+    {
+      "reference": "WIEN:G11c",
+      "name": "Number and direction of central reservation crossings"
+    },
+    {
+      "reference": "WIEN:G12a",
+      "name": "Narrowing of traffic lanes"
+    },
+    {
+      "reference": "WIEN:G12b",
+      "name": "End of through lane"
+    },
+    {
+      "reference": "WIEN:G13",
+      "name": "No Through Road"
+    },
+    {
+      "reference": "WIEN:G14",
+      "name": "General Speed Limits"
+    },
+    {
+      "reference": "WIEN:G15",
+      "name": "Road Open or Closed"
+    },
+    {
+      "reference": "WIEN:G16",
+      "name": "Chains or snow tyres recommended"
+    },
+    {
+      "reference": "WIEN:G17",
+      "name": "Advisory Speed"
+    },
+    {
+      "reference": "WIEN:G18",
+      "name": "Advised Itinerary for Heavy Vehicles"
+    },
+    {
+      "reference": "WIEN:G19",
+      "name": "Escape Lane"
+    },
+    {
+      "reference": "WIEN:G20",
+      "name": "Pedestrian Overpass or Underpass"
+    },
+    {
+      "reference": "WIEN:G21",
+      "name": "Pedestrian Overpass or Underpass Without Stairs"
+    },
+    {
+      "reference": "WIEN:G22a",
+      "name": "Countdown Beacons to a Motorway Exit (3 Beacons)"
+    },
+    {
+      "reference": "WIEN:G22b",
+      "name": "Countdown Beacons to a Motorway Exit (2 Beacons)"
+    },
+    {
+      "reference": "WIEN:G22c",
+      "name": "Countdown Beacons to a Motorway Exit (1 Beacon)"
+    },
+    {
+      "reference": "WIEN:G23a",
+      "name": "Emergency Exit (left)"
+    },
+    {
+      "reference": "WIEN:G23b",
+      "name": "Emergency Exit (right)"
+    },
+    {
+      "reference": "WIEN:G24a",
+      "name": "Direction to an Emergency Exit (left)"
+    },
+    {
+      "reference": "WIEN:G24b",
+      "name": "Direction to an Emergency Exit (right)"
+    },
+    {
+      "reference": "WIEN:G24c",
+      "name": "Direction to an Emergency Exit (right and left)"
+    },
+    {
+      "reference": "WIEN:H1",
+      "name": "Distance from the sign to the beginning of the dangerous section of road or of the zone to which the regulation applies"
+    },
+    {
+      "reference": "WIEN:H2",
+      "name": "Length of the dangerous section of road or of the zone to which the regulation applies"
+    },
+    {
+      "reference": "WIEN:H3a",
+      "name": "... Metres Ahead (left)"
+    },
+    {
+      "reference": "WIEN:H3b",
+      "name": "... Metres Ahead (right and left)"
+    },
+    {
+      "reference": "WIEN:H3c",
+      "name": "... Metres Ahead (right)"
+    },
+    {
+      "reference": "WIEN:H4a",
+      "name": "Before the sign"
+    },
+    {
+      "reference": "WIEN:H4b",
+      "name": "Before and After the sign"
+    },
+    {
+      "reference": "WIEN:H4c",
+      "name": "After the sign"
+    },
+    {
+      "reference": "WIEN:H5a",
+      "name": "Applicability to trucks"
+    },
+    {
+      "reference": "WIEN:H5b",
+      "name": "Applicability to trucks with trailer"
+    },
+    {
+      "reference": "WIEN:H6",
+      "name": "Except trams"
+    },
+    {
+      "reference": "WIEN:H7",
+      "name": "Applicability to handicapped persons"
+    },
+    {
+      "reference": "WIEN:H8",
+      "name": "Diagram of the intersection"
+    },
+    {
+      "reference": "WIEN:H9",
+      "name": "When it snows or is icy"
+    }
+  ]
+}

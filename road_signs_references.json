@@ -1,0 +1,2916 @@
+{
+  "signs": [
+    {
+      "reference": "VIENNA:A1",
+      "name": "Dangerous Bends",
+      "description": "Sign A1 may come in two models. Model 1a/b warns of a single bend in the roadway ahead to the left or right. The shape of the arrow may be simple and used for all bends. However, some signatories have different arrows depending on the sharpness of the bend ahead. Model 1c/d warns of a series of two or more bends in the roadway ahead, with the arrow depicting the direction of the first bend to the left or to the right. Some signatories include a supplementary plate with the number of bends in the entire series."
+    },
+    {
+      "reference": "VIENNA:A1a",
+      "name": "Dangerous Bends (left)",
+      "description": "Sign A1 may come in two models. Model 1a/b warns of a single bend in the roadway ahead to the left or right. The shape of the arrow may be simple and used for all bends. However, some signatories have different arrows depending on the sharpness of the bend ahead. Model 1c/d warns of a series of two or more bends in the roadway ahead, with the arrow depicting the direction of the first bend to the left or to the right. Some signatories include a supplementary plate with the number of bends in the entire series.",
+      "declinations": [
+        "VIENNA:A1a-Aa-V1",
+        "VIENNA:A1a-Aa-V2",
+        "VIENNA:A1a-Aa-V3",
+        "VIENNA:A1a-Aa-V4",
+        "VIENNA:A1a-Ab-V1",
+        "VIENNA:A1a-Ab-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A1b",
+      "name": "Dangerous Bends (right)",
+      "description": "Sign A1 may come in two models. Model 1a/b warns of a single bend in the roadway ahead to the left or right. The shape of the arrow may be simple and used for all bends. However, some signatories have different arrows depending on the sharpness of the bend ahead. Model 1c/d warns of a series of two or more bends in the roadway ahead, with the arrow depicting the direction of the first bend to the left or to the right. Some signatories include a supplementary plate with the number of bends in the entire series.",
+      "declinations": [
+        "VIENNA:A1b-Aa-V1",
+        "VIENNA:A1b-Aa-V2",
+        "VIENNA:A1b-Aa-V3",
+        "VIENNA:A1b-Aa-V4",
+        "VIENNA:A1b-Ab-V1",
+        "VIENNA:A1b-Ab-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A1c",
+      "name": "Double Bend First to Left",
+      "description": "Sign A1 may come in two models. Model 1a/b warns of a single bend in the roadway ahead to the left or right. The shape of the arrow may be simple and used for all bends. However, some signatories have different arrows depending on the sharpness of the bend ahead. Model 1c/d warns of a series of two or more bends in the roadway ahead, with the arrow depicting the direction of the first bend to the left or to the right. Some signatories include a supplementary plate with the number of bends in the entire series.",
+      "declinations": [
+        "VIENNA:A1c-Aa-V1",
+        "VIENNA:A1c-Aa-V2",
+        "VIENNA:A1c-Aa-V3",
+        "VIENNA:A1c-Aa-V4",
+        "VIENNA:A1c-Ab-V1",
+        "VIENNA:A1c-Ab-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A1d",
+      "name": "Double Bend First to Right",
+      "description": "Sign A1 may come in two models. Model 1a/b warns of a single bend in the roadway ahead to the left or right. The shape of the arrow may be simple and used for all bends. However, some signatories have different arrows depending on the sharpness of the bend ahead. Model 1c/d warns of a series of two or more bends in the roadway ahead, with the arrow depicting the direction of the first bend to the left or to the right. Some signatories include a supplementary plate with the number of bends in the entire series.",
+      "declinations": [
+        "VIENNA:A1d-Aa-V1",
+        "VIENNA:A1d-Aa-V2",
+        "VIENNA:A1d-Aa-V3",
+        "VIENNA:A1d-Aa-V4",
+        "VIENNA:A1d-Ab-V1",
+        "VIENNA:A1d-Ab-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A2a",
+      "name": "Steep descent",
+      "description": "Signs A2 and A3 warn of a steep slope in the roadway ahead. The symbol shall consist of a scalene triangle depicting a downwards or upwards slope. The gradient may be depicted as a percentage or as a ratio. Alternatively, the gradient may be replaced with the symbol of a vehicle. The European Annex mandates the depiction of the gradient.",
+      "declinations": [
+        "VIENNA:A2a-Aa-V1-1",
+        "VIENNA:A2a-Aa-V1-2",
+        "VIENNA:A2a-Aa-V1-3",
+        "VIENNA:A2a-Aa-V1-4",
+        "VIENNA:A2a-Aa-V2-1",
+        "VIENNA:A2a-Aa-V2-2",
+        "VIENNA:A2a-Aa-V2-3",
+        "VIENNA:A2a-Aa-V2-4",
+        "VIENNA:A2a-d-Ab-V1",
+        "VIENNA:A2a-d-Ab-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A2b",
+      "name": "Two steep descents",
+      "description": "Signs A2 and A3 warn of a steep slope in the roadway ahead. The symbol shall consist of a scalene triangle depicting a downwards or upwards slope. The gradient may be depicted as a percentage or as a ratio. Alternatively, the gradient may be replaced with the symbol of a vehicle. The European Annex mandates the depiction of the gradient.",
+      "declinations": [
+        "VIENNA:A2b-Ab-V1-1",
+        "VIENNA:A2b-Ab-V1-2",
+        "VIENNA:A2b-Ab-V2-1",
+        "VIENNA:A2b-Ab-V2-2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A2c",
+      "name": "Steep ascent and descent",
+      "description": "Signs A2 and A3 warn of a steep slope in the roadway ahead. The symbol shall consist of a scalene triangle depicting a downwards or upwards slope. The gradient may be depicted as a percentage or as a ratio. Alternatively, the gradient may be replaced with the symbol of a vehicle. The European Annex mandates the depiction of the gradient.",
+      "declinations": [
+        "VIENNA:A2c-Aa-V1",
+        "VIENNA:A2c-Aa-V2",
+        "VIENNA:A2c-Aa-V3",
+        "VIENNA:A2c-Aa-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:A3a",
+      "name": "Steep ascent",
+      "description": "Signs A2 and A3 warn of a steep slope in the roadway ahead. The symbol shall consist of a scalene triangle depicting a downwards or upwards slope. The gradient may be depicted as a percentage or as a ratio. Alternatively, the gradient may be replaced with the symbol of a vehicle. The European Annex mandates the depiction of the gradient.",
+      "declinations": [
+        "VIENNA:A3a-Aa-V1-1",
+        "VIENNA:A3a-Aa-V1-2",
+        "VIENNA:A3a-Aa-V1-3",
+        "VIENNA:A3a-Aa-V1-4",
+        "VIENNA:A3a-Aa-V2-1",
+        "VIENNA:A3a-Aa-V2-2",
+        "VIENNA:A3a-Aa-V2-3",
+        "VIENNA:A3a-Aa-V2-4",
+        "VIENNA:A3a-d-Ab-V1",
+        "VIENNA:A3a-d-Ab-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A3b",
+      "name": "Two steep ascents",
+      "description": "Signs A2 and A3 warn of a steep slope in the roadway ahead. The symbol shall consist of a scalene triangle depicting a downwards or upwards slope. The gradient may be depicted as a percentage or as a ratio. Alternatively, the gradient may be replaced with the symbol of a vehicle. The European Annex mandates the depiction of the gradient.",
+      "declinations": [
+        "VIENNA:A3b-Ab-V1-1",
+        "VIENNA:A3b-Ab-V1-2",
+        "VIENNA:A3b-Ab-V2-1",
+        "VIENNA:A3b-Ab-V2-2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A3c",
+      "name": "Descent and steep ascent",
+      "description": "Signs A2 and A3 warn of a steep slope in the roadway ahead. The symbol shall consist of a scalene triangle depicting a downwards or upwards slope. The gradient may be depicted as a percentage or as a ratio. Alternatively, the gradient may be replaced with the symbol of a vehicle. The European Annex mandates the depiction of the gradient.",
+      "declinations": [
+        "VIENNA:A3c-Aa-V1",
+        "VIENNA:A3c-Aa-V2",
+        "VIENNA:A3c-Aa-V3",
+        "VIENNA:A3c-Aa-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:A4a",
+      "name": "Carriageway Narrows",
+      "description": "Sign A4 warns drivers of a narrowing of the roadway ahead. The symbol should accurately depict the form of narrowing, whether on one side or both sides of the roadway.",
+      "declinations": [
+        "VIENNA:A4a-Aa-V1",
+        "VIENNA:A4a-Aa-V2",
+        "VIENNA:A4a-Aa-V3",
+        "VIENNA:A4a-Aa-V4",
+        "VIENNA:A4a-Ab-V1",
+        "VIENNA:A4a-Ab-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A4b",
+      "name": "Carriageway Narrows on Right",
+      "description": "Sign A4 warns drivers of a narrowing of the roadway ahead. The symbol should accurately depict the form of narrowing, whether on one side or both sides of the roadway.",
+      "declinations": [
+        "VIENNA:A4b-Aa-V1-1",
+        "VIENNA:A4b-Aa-V1-2",
+        "VIENNA:A4b-Aa-V1-3",
+        "VIENNA:A4b-Aa-V1-4",
+        "VIENNA:A4b-Aa-V2-1",
+        "VIENNA:A4b-Aa-V2-2",
+        "VIENNA:A4b-Aa-V2-3",
+        "VIENNA:A4b-Aa-V2-4",
+        "VIENNA:A4b-Ab-V1-1",
+        "VIENNA:A4b-Ab-V1-2",
+        "VIENNA:A4b-Ab-V2-1",
+        "VIENNA:A4b-Ab-V2-2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A4c",
+      "name": "Carriageway Narrows on Left",
+      "description": "Sign A4 warns drivers of a narrowing of the roadway ahead. The symbol should accurately depict the form of narrowing, whether on one side or both sides of the roadway."
+    },
+    {
+      "reference": "VIENNA:A5",
+      "name": "Swing Bridge",
+      "description": "Sign A5 warns drivers that there is an opening bridge ahead and that the driver may be required to stop and wait whilst the bridge is in operation.",
+      "declinations": [
+        "VIENNA:A5-Aa-V1",
+        "VIENNA:A5-Aa-V2",
+        "VIENNA:A5-Aa-V3",
+        "VIENNA:A5-Aa-V4",
+        "VIENNA:A5-Ab-V1",
+        "VIENNA:A5-Ab-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A6",
+      "name": "Road leads on to quay or river bank",
+      "description": "Sign A6 warns drivers that the roadway exits ahead onto a quay, pier, or jetty, or that there is a river or canal alongside or very near the road which is not protected by any barriers to prevent the car from falling into the water. Some signatories reverse the symbol depending on whether the danger is on the left or right side of the roadway.",
+      "declinations": [
+        "VIENNA:A6-Aa-V1",
+        "VIENNA:A6-Aa-V2",
+        "VIENNA:A6-Aa-V3",
+        "VIENNA:A6-Aa-V4",
+        "VIENNA:A6-Ab-V1",
+        "VIENNA:A6-Ab-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A7a",
+      "name": "Uneven Road",
+      "description": "Sign A7 sign may come in 3 models. Model 7a warns of a length of roadway that is uneven due to various deformities. Model 7b warns of rises in the road, including speed regulating bumps or tables, ridges and crests. Model 7b may also be used to signal a humpback bridge, however some signatories have created a different symbol for humpback bridges. Model 7c warns of depressions in the road, including potholes, fords, and artificial dips.",
+      "declinations": [
+        "VIENNA:A7a-Aa-V1",
+        "VIENNA:A7a-Aa-V2",
+        "VIENNA:A7a-Aa-V3",
+        "VIENNA:A7a-Aa-V4",
+        "VIENNA:A7a-Ab-V1",
+        "VIENNA:A7a-Ab-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A7b",
+      "name": "Speed Bumps",
+      "description": "Sign A7 sign may come in 3 models. Model 7a warns of a length of roadway that is uneven due to various deformities. Model 7b warns of rises in the road, including speed regulating bumps or tables, ridges and crests. Model 7b may also be used to signal a humpback bridge, however some signatories have created a different symbol for humpback bridges. Model 7c warns of depressions in the road, including potholes, fords, and artificial dips.",
+      "declinations": [
+        "VIENNA:A7b-Aa-V1",
+        "VIENNA:A7b-Aa-V2",
+        "VIENNA:A7b-Aa-V3",
+        "VIENNA:A7b-Aa-V4",
+        "VIENNA:A7b-Ab-V1",
+        "VIENNA:A7b-Ab-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A7c",
+      "name": "Dip",
+      "description": "Sign A7 sign may come in 3 models. Model 7a warns of a length of roadway that is uneven due to various deformities. Model 7b warns of rises in the road, including speed regulating bumps or tables, ridges and crests. Model 7b may also be used to signal a humpback bridge, however some signatories have created a different symbol for humpback bridges. Model 7c warns of depressions in the road, including potholes, fords, and artificial dips.",
+      "declinations": [
+        "VIENNA:A7c-Aa-V1",
+        "VIENNA:A7c-Aa-V2",
+        "VIENNA:A7c-Aa-V3",
+        "VIENNA:A7c-Aa-V4",
+        "VIENNA:A7c-Ab-V1",
+        "VIENNA:A7c-Ab-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A8",
+      "name": "Dangerous Shoulders",
+      "description": "Sign A8 warns drivers that the shoulder, verge, or sides of the roadway are soft or weak, and may partially collapse under the weight of the car. The symbol shall be reversed for countries that drive on the left.",
+      "declinations": [
+        "VIENNA:A8-Aa-V1",
+        "VIENNA:A8-Aa-V1-LHT",
+        "VIENNA:A8-Aa-V2",
+        "VIENNA:A8-Aa-V2-LHT",
+        "VIENNA:A8-Aa-V3",
+        "VIENNA:A8-Aa-V3-LHT",
+        "VIENNA:A8-Aa-V4",
+        "VIENNA:A8-Aa-V4-LHT",
+        "VIENNA:A8-Ab-V1",
+        "VIENNA:A8-Ab-V1-LHT",
+        "VIENNA:A8-Ab-V2",
+        "VIENNA:A8-Ab-V2-LHT"
+      ]
+    },
+    {
+      "reference": "VIENNA:A9",
+      "name": "Slippery Road",
+      "description": "Sign A9 warns drivers that the roadway ahead may be particularly slippery due to various conditions, such as ice, snow, mud, rain, or loose material.",
+      "declinations": [
+        "VIENNA:A9-Aa-V1",
+        "VIENNA:A9-Aa-V2",
+        "VIENNA:A9-Aa-V3",
+        "VIENNA:A9-Aa-V4",
+        "VIENNA:A9-Ab-V1",
+        "VIENNA:A9-Ab-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A10a",
+      "name": "Loose Chippings",
+      "description": "Sign A10 warns drivers that the section of roadway ahead is covered in various loose materials such as gravel, chippings, or other rubble, and that there is a danger of stirring up this material into projectiles at higher speeds. The sign depicts an oncoming vehicle throwing these projectiles into the path of the driver viewing the sign as a way of reminding drivers to be courteous, since these projectiles can cause damage to both the driver's own vehicle and other vehicles they encounter. The symbol shall be reversed for countries that drive on the left.",
+      "declinations": [
+        "VIENNA:A10a-Aa-V1",
+        "VIENNA:A10a-Aa-V1-LHT",
+        "VIENNA:A10a-Aa-V2",
+        "VIENNA:A10a-Aa-V2-LHT",
+        "VIENNA:A10a-Aa-V3",
+        "VIENNA:A10a-Aa-V3-LHT",
+        "VIENNA:A10a-Aa-V4",
+        "VIENNA:A10a-Aa-V4-LHT"
+      ]
+    },
+    {
+      "reference": "VIENNA:A10b",
+      "name": "Loose Gravel",
+      "description": "Sign A10 warns drivers that the section of roadway ahead is covered in various loose materials such as gravel, chippings, or other rubble, and that there is a danger of stirring up this material into projectiles at higher speeds. The sign depicts an oncoming vehicle throwing these projectiles into the path of the driver viewing the sign as a way of reminding drivers to be courteous, since these projectiles can cause damage to both the driver's own vehicle and other vehicles they encounter. The symbol shall be reversed for countries that drive on the left.",
+      "declinations": [
+        "VIENNA:A10b-Ab-V1",
+        "VIENNA:A10b-Ab-V1-LHT",
+        "VIENNA:A10b-Ab-V2",
+        "VIENNA:A10b-Ab-V2-LHT"
+      ]
+    },
+    {
+      "reference": "VIENNA:A11a",
+      "name": "Falling Rocks",
+      "description": "Sign A11 warns drivers that there is a danger of large rocks falling down towards the roadway or that there may be rocks on the roadway ahead. It is commonly used when the roadway passes along a cliff or mountainside that is not secured with netting or that may be susceptible to landslides. The symbol shall be reversed for countries that drive on the left. Some signatories reverse the symbol depending on whether the danger is on the left or right side of the roadway.",
+      "declinations": [
+        "VIENNA:A11a-Aa-V1",
+        "VIENNA:A11a-Aa-V1-LHT",
+        "VIENNA:A11a-Aa-V2",
+        "VIENNA:A11a-Aa-V2-LHT",
+        "VIENNA:A11a-Aa-V3",
+        "VIENNA:A11a-Aa-V3-LHT",
+        "VIENNA:A11a-Aa-V4",
+        "VIENNA:A11a-Aa-V4-LHT"
+      ]
+    },
+    {
+      "reference": "VIENNA:A11b",
+      "name": "Falling Rocks (alternative)",
+      "description": "Sign A11 warns drivers that there is a danger of large rocks falling down towards the roadway or that there may be rocks on the roadway ahead. It is commonly used when the roadway passes along a cliff or mountainside that is not secured with netting or that may be susceptible to landslides. The symbol shall be reversed for countries that drive on the left. Some signatories reverse the symbol depending on whether the danger is on the left or right side of the roadway.",
+      "declinations": [
+        "VIENNA:A11b-Ab-V1",
+        "VIENNA:A11b-Ab-V1-LHT",
+        "VIENNA:A11b-Ab-V2",
+        "VIENNA:A11b-Ab-V2-LHT"
+      ]
+    },
+    {
+      "reference": "VIENNA:A12a",
+      "name": "Pedestrian Crossing",
+      "description": "Sign A12 warns drivers that there is a dedicated pedestrian crossing ahead and that the driver should slow down and anticipate pedestrians preparing to cross or already crossing the roadway. Three types of road markings are permitted for pedestrian crossings; a pair of dotted lines, a pair of straight lines, or zebra stripes. The markings on the sign should match the road markings used at the crossing. The pedestrian figure on the sign should face outward towards the roadway. The symbol shall be reversed for countries that drive on the left.",
+      "declinations": [
+        "VIENNA:A12a-Aa-V1",
+        "VIENNA:A12a-Aa-V1-LHT",
+        "VIENNA:A12a-Aa-V2",
+        "VIENNA:A12a-Aa-V2-LHT",
+        "VIENNA:A12a-Aa-V3",
+        "VIENNA:A12a-Aa-V3-LHT",
+        "VIENNA:A12a-Aa-V4",
+        "VIENNA:A12a-Aa-V4-LHT",
+        "VIENNA:A12a-Ab-V1",
+        "VIENNA:A12a-Ab-V1-LHT",
+        "VIENNA:A12a-Ab-V2",
+        "VIENNA:A12a-Ab-V2-LHT",
+        "VIENNA:A12a-c-Aa-V1",
+        "VIENNA:A12a-c-Aa-V1-LHT",
+        "VIENNA:A12a-c-Aa-V2",
+        "VIENNA:A12a-c-Aa-V2-LHT",
+        "VIENNA:A12a-c-Aa-V3",
+        "VIENNA:A12a-c-Aa-V3-LHT",
+        "VIENNA:A12a-c-Aa-V4",
+        "VIENNA:A12a-c-Aa-V4-LHT",
+        "VIENNA:A12a-c-Ab-V1",
+        "VIENNA:A12a-c-Ab-V1-LHT",
+        "VIENNA:A12a-c-Ab-V2",
+        "VIENNA:A12a-c-Ab-V2-LHT"
+      ]
+    },
+    {
+      "reference": "VIENNA:A12b",
+      "name": "Pedestrian Crossing (alternative)",
+      "description": "Sign A12 warns drivers that there is a dedicated pedestrian crossing ahead and that the driver should slow down and anticipate pedestrians preparing to cross or already crossing the roadway. Three types of road markings are permitted for pedestrian crossings; a pair of dotted lines, a pair of straight lines, or zebra stripes. The markings on the sign should match the road markings used at the crossing. The pedestrian figure on the sign should face outward towards the roadway. The symbol shall be reversed for countries that drive on the left.",
+      "declinations": [
+        "VIENNA:A12b-Aa-V1",
+        "VIENNA:A12b-Aa-V1-LHT",
+        "VIENNA:A12b-Aa-V2",
+        "VIENNA:A12b-Aa-V2-LHT",
+        "VIENNA:A12b-Aa-V3",
+        "VIENNA:A12b-Aa-V3-LHT",
+        "VIENNA:A12b-Aa-V4",
+        "VIENNA:A12b-Aa-V4-LHT",
+        "VIENNA:A12b-Ab-V1",
+        "VIENNA:A12b-Ab-V1-LHT",
+        "VIENNA:A12b-Ab-V2",
+        "VIENNA:A12b-Ab-V2-LHT"
+      ]
+    },
+    {
+      "reference": "VIENNA:A13",
+      "name": "Children",
+      "description": "Sign A13 warns drivers that the section of roadway ahead is frequented by children and that the driver should slow down and anticipate the possibility of children running out into the path of traffic. This sign may also be used to warn of school zones, playgrounds, or other areas where the driver is most likely to encounter children. The children on the sign should face outward towards the roadway. The symbol shall be reversed for countries that drive on the left.",
+      "declinations": [
+        "VIENNA:A13-Aa-V1",
+        "VIENNA:A13-Aa-V1-LHT",
+        "VIENNA:A13-Aa-V2",
+        "VIENNA:A13-Aa-V2-LHT",
+        "VIENNA:A13-Aa-V3",
+        "VIENNA:A13-Aa-V3-LHT",
+        "VIENNA:A13-Aa-V4",
+        "VIENNA:A13-Aa-V4-LHT",
+        "VIENNA:A13-Ab-V1",
+        "VIENNA:A13-Ab-V1-LHT",
+        "VIENNA:A13-Ab-V2",
+        "VIENNA:A13-Ab-V2-LHT"
+      ]
+    },
+    {
+      "reference": "VIENNA:A14",
+      "name": "Cyclists entering or crossing",
+      "description": "Sign A14 warns drivers that the section of roadway ahead is shared with cyclists or that there is a bicycle crossing ahead. The cyclist on the sign should face outward towards the roadway. The symbol shall be reversed for countries that drive on the left.",
+      "declinations": [
+        "VIENNA:A14-Aa-V1",
+        "VIENNA:A14-Aa-V1-LHT",
+        "VIENNA:A14-Aa-V2",
+        "VIENNA:A14-Aa-V2-LHT",
+        "VIENNA:A14-Aa-V3",
+        "VIENNA:A14-Aa-V3-LHT",
+        "VIENNA:A14-Aa-V4",
+        "VIENNA:A14-Aa-V4-LHT",
+        "VIENNA:A14-Ab-V1",
+        "VIENNA:A14-Ab-V1-LHT",
+        "VIENNA:A14-Ab-V2",
+        "VIENNA:A14-Ab-V2-LHT"
+      ]
+    },
+    {
+      "reference": "VIENNA:A15a",
+      "name": "Cattle or other animals crossing",
+      "description": "Sign A15 warns drivers of the likelihood of animals near or in the roadway, or crossing the roadway ahead. Model 15a warns of domesticated animals. The symbol of a cow is most common, but other animals may be used such as sheep, pigs, or other livestock. Model 15b warns of wild animals, which are less predictable and may jump suddenly into the roadway. The symbol of a deer is most common, but other animals may be used such as moose, bears, elephants, horses, kangaroos, and crocodiles. Signs should depict the animal most likely to be encountered by the driver. The animal on the sign should face outward towards the roadway. The symbol shall be reversed for countries that drive on the left.",
+      "declinations": [
+        "VIENNA:A15a-Aa-V1",
+        "VIENNA:A15a-Aa-V1-LHT",
+        "VIENNA:A15a-Aa-V2",
+        "VIENNA:A15a-Aa-V2-LHT",
+        "VIENNA:A15a-Aa-V3",
+        "VIENNA:A15a-Aa-V3-LHT",
+        "VIENNA:A15a-Aa-V4",
+        "VIENNA:A15a-Aa-V4-LHT",
+        "VIENNA:A15a-Ab-V1",
+        "VIENNA:A15a-Ab-V1-LHT",
+        "VIENNA:A15a-Ab-V2",
+        "VIENNA:A15a-Ab-V2-LHT",
+        "VIENNA:A15a-b-Aa-V1",
+        "VIENNA:A15a-b-Aa-V1-LHT",
+        "VIENNA:A15a-b-Aa-V2",
+        "VIENNA:A15a-b-Aa-V2-LHT",
+        "VIENNA:A15a-b-Aa-V3",
+        "VIENNA:A15a-b-Aa-V3-LHT",
+        "VIENNA:A15a-b-Aa-V4",
+        "VIENNA:A15a-b-Aa-V4-LHT",
+        "VIENNA:A15a-b-Ab-V1",
+        "VIENNA:A15a-b-Ab-V1-LHT",
+        "VIENNA:A15a-b-Ab-V2",
+        "VIENNA:A15a-b-Ab-V2-LHT"
+      ]
+    },
+    {
+      "reference": "VIENNA:A16",
+      "name": "Roadworks",
+      "description": "Sign A16 warns drivers that there are workers in the roadway ahead. The symbol of a worker on the sign should face with their back to the roadway. This reminds drivers that workers may not be fully aware of vehicles around them and that drivers should be extra cautious. The symbol shall be reversed for countries that drive on the left.",
+      "declinations": [
+        "VIENNA:A16-Aa-V1",
+        "VIENNA:A16-Aa-V1-LHT",
+        "VIENNA:A16-Aa-V2",
+        "VIENNA:A16-Aa-V2-LHT",
+        "VIENNA:A16-Aa-V3",
+        "VIENNA:A16-Aa-V3-LHT",
+        "VIENNA:A16-Aa-V4",
+        "VIENNA:A16-Aa-V4-LHT",
+        "VIENNA:A16-Ab-V1",
+        "VIENNA:A16-Ab-V1-LHT",
+        "VIENNA:A16-Ab-V2",
+        "VIENNA:A16-Ab-V2-LHT"
+      ]
+    },
+    {
+      "reference": "VIENNA:A17",
+      "name": "Traffic Lights",
+      "description": "Sign A17 warns drivers that traffic is controlled by light signals ahead. The three \"lights\" on the sign shall be in colour. They shall also correspond to whether the signals are arranged vertically or horizontally. Where the signals are arranged vertically, the red signal shall be uppermost. Where the signals are arranged horizontally, the red signal shall be on side closest to the centre of the roadway. Therefore model 17b shall be used in countries that drive on the left whilst model 17c shall be used in countries that drive on the right. The European Annex mandates that the signals be arranged vertically.",
+      "declinations": [
+        "VIENNA:A17-Ab-17c",
+        "VIENNA:A17-c-Aa-V1",
+        "VIENNA:A17-c-Aa-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A17a",
+      "name": "Traffic Lights (Right-hand Side)",
+      "description": "Sign A17 warns drivers that traffic is controlled by light signals ahead. The three \"lights\" on the sign shall be in colour. They shall also correspond to whether the signals are arranged vertically or horizontally. Where the signals are arranged vertically, the red signal shall be uppermost. Where the signals are arranged horizontally, the red signal shall be on side closest to the centre of the roadway. Therefore model 17b shall be used in countries that drive on the left whilst model 17c shall be used in countries that drive on the right. The European Annex mandates that the signals be arranged vertically.",
+      "declinations": [
+        "VIENNA:A17a-Aa-V1",
+        "VIENNA:A17a-Aa-V2",
+        "VIENNA:A17a-Ab-V1"
+      ]
+    },
+    {
+      "reference": "VIENNA:A17b",
+      "name": "Traffic Lights (Left-hand Side)",
+      "description": "Sign A17 warns drivers that traffic is controlled by light signals ahead. The three \"lights\" on the sign shall be in colour. They shall also correspond to whether the signals are arranged vertically or horizontally. Where the signals are arranged vertically, the red signal shall be uppermost. Where the signals are arranged horizontally, the red signal shall be on side closest to the centre of the roadway. Therefore model 17b shall be used in countries that drive on the left whilst model 17c shall be used in countries that drive on the right. The European Annex mandates that the signals be arranged vertically.",
+      "declinations": [
+        "VIENNA:A17b-Aa-V1",
+        "VIENNA:A17b-Aa-V2",
+        "VIENNA:A17b-Ab-V1"
+      ]
+    },
+    {
+      "reference": "VIENNA:A18a",
+      "name": "Intersection Under General Priority",
+      "description": "Sign A18 warns drivers that multiple roadways intersect ahead and that no approach has priority. Instead the general priority rule applies. This rule varies from country to country, but the most common is priority to the right , where if multiple vehicles approach the intersection at the same time, the vehicle on the right has priority. Figure 18a depicts two crossed roads in the form of an and is used on the Aa model of warning signs. Figure 18b depicts two crossed roads in the form of a and is used on the Ab model of warning signs. The symbol on the sign may be altered to accurately depict the layout of the intersection ahead, such as a T or Y junction, skewed junction, or staggered junction.",
+      "declinations": [
+        "VIENNA:A18a-Aa-V1",
+        "VIENNA:A18a-Aa-V2",
+        "VIENNA:A18a-Aa-V3",
+        "VIENNA:A18a-Aa-V4",
+        "VIENNA:A18a-g-Aa-V1-1",
+        "VIENNA:A18a-g-Aa-V1-2",
+        "VIENNA:A18a-g-Aa-V1-3",
+        "VIENNA:A18a-g-Aa-V1-4",
+        "VIENNA:A18a-g-Aa-V2-1",
+        "VIENNA:A18a-g-Aa-V2-2",
+        "VIENNA:A18a-g-Aa-V2-3",
+        "VIENNA:A18a-g-Aa-V2-4",
+        "VIENNA:A18a-g-Ab-V1-1",
+        "VIENNA:A18a-g-Ab-V1-2",
+        "VIENNA:A18a-g-Ab-V2-1",
+        "VIENNA:A18a-g-Ab-V2-2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A18b",
+      "name": "Intersection Under General Priority (alternative)",
+      "description": "Sign A18 warns drivers that multiple roadways intersect ahead and that no approach has priority. Instead the general priority rule applies. This rule varies from country to country, but the most common is priority to the right , where if multiple vehicles approach the intersection at the same time, the vehicle on the right has priority. Figure 18a depicts two crossed roads in the form of an and is used on the Aa model of warning signs. Figure 18b depicts two crossed roads in the form of a and is used on the Ab model of warning signs. The symbol on the sign may be altered to accurately depict the layout of the intersection ahead, such as a T or Y junction, skewed junction, or staggered junction.",
+      "declinations": [
+        "VIENNA:A18b-Ab-V1",
+        "VIENNA:A18b-Ab-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A18c",
+      "name": "Intersection Under General Priority (alternative)",
+      "description": "Sign A18 warns drivers that multiple roadways intersect ahead and that no approach has priority. Instead the general priority rule applies. This rule varies from country to country, but the most common is priority to the right , where if multiple vehicles approach the intersection at the same time, the vehicle on the right has priority. Figure 18a depicts two crossed roads in the form of an and is used on the Aa model of warning signs. Figure 18b depicts two crossed roads in the form of a and is used on the Ab model of warning signs. The symbol on the sign may be altered to accurately depict the layout of the intersection ahead, such as a T or Y junction, skewed junction, or staggered junction.",
+      "declinations": [
+        "VIENNA:A18c-Aa-V1-1",
+        "VIENNA:A18c-Aa-V1-2",
+        "VIENNA:A18c-Aa-V1-3",
+        "VIENNA:A18c-Aa-V1-4",
+        "VIENNA:A18c-Aa-V2-1",
+        "VIENNA:A18c-Aa-V2-2",
+        "VIENNA:A18c-Aa-V2-3",
+        "VIENNA:A18c-Aa-V2-4",
+        "VIENNA:A18c-Ab-V1-1",
+        "VIENNA:A18c-Ab-V1-2",
+        "VIENNA:A18c-Ab-V2-1",
+        "VIENNA:A18c-Ab-V2-2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A18d",
+      "name": "Intersection Under General Priority (alternative)",
+      "description": "Sign A18 warns drivers that multiple roadways intersect ahead and that no approach has priority. Instead the general priority rule applies. This rule varies from country to country, but the most common is priority to the right , where if multiple vehicles approach the intersection at the same time, the vehicle on the right has priority. Figure 18a depicts two crossed roads in the form of an and is used on the Aa model of warning signs. Figure 18b depicts two crossed roads in the form of a and is used on the Ab model of warning signs. The symbol on the sign may be altered to accurately depict the layout of the intersection ahead, such as a T or Y junction, skewed junction, or staggered junction.",
+      "declinations": [
+        "VIENNA:A18d-Aa-V1-1",
+        "VIENNA:A18d-Aa-V1-2",
+        "VIENNA:A18d-Aa-V1-3",
+        "VIENNA:A18d-Aa-V1-4",
+        "VIENNA:A18d-Aa-V2-1",
+        "VIENNA:A18d-Aa-V2-2",
+        "VIENNA:A18d-Aa-V2-3",
+        "VIENNA:A18d-Aa-V2-4",
+        "VIENNA:A18d-Aa-V3-1",
+        "VIENNA:A18d-Aa-V3-2",
+        "VIENNA:A18d-Aa-V3-3",
+        "VIENNA:A18d-Aa-V3-4",
+        "VIENNA:A18d-Aa-V4-1",
+        "VIENNA:A18d-Aa-V4-2",
+        "VIENNA:A18d-Aa-V4-3",
+        "VIENNA:A18d-Aa-V4-4",
+        "VIENNA:A18d-Ab-V1-1",
+        "VIENNA:A18d-Ab-V1-2",
+        "VIENNA:A18d-Ab-V2-1",
+        "VIENNA:A18d-Ab-V2-2",
+        "VIENNA:A18d-Ab-V3-1",
+        "VIENNA:A18d-Ab-V3-2",
+        "VIENNA:A18d-Ab-V4-1",
+        "VIENNA:A18d-Ab-V4-2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A18e",
+      "name": "Intersection Under General Priority (alternative)",
+      "description": "Sign A18 warns drivers that multiple roadways intersect ahead and that no approach has priority. Instead the general priority rule applies. This rule varies from country to country, but the most common is priority to the right , where if multiple vehicles approach the intersection at the same time, the vehicle on the right has priority. Figure 18a depicts two crossed roads in the form of an and is used on the Aa model of warning signs. Figure 18b depicts two crossed roads in the form of a and is used on the Ab model of warning signs. The symbol on the sign may be altered to accurately depict the layout of the intersection ahead, such as a T or Y junction, skewed junction, or staggered junction.",
+      "declinations": [
+        "VIENNA:A18e-Aa-V1",
+        "VIENNA:A18e-Aa-V2",
+        "VIENNA:A18e-Aa-V3",
+        "VIENNA:A18e-Aa-V4",
+        "VIENNA:A18e-Ab-V1",
+        "VIENNA:A18e-Ab-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A18f",
+      "name": "Intersection Under General Priority (alternative)",
+      "description": "Sign A18 warns drivers that multiple roadways intersect ahead and that no approach has priority. Instead the general priority rule applies. This rule varies from country to country, but the most common is priority to the right , where if multiple vehicles approach the intersection at the same time, the vehicle on the right has priority. Figure 18a depicts two crossed roads in the form of an and is used on the Aa model of warning signs. Figure 18b depicts two crossed roads in the form of a and is used on the Ab model of warning signs. The symbol on the sign may be altered to accurately depict the layout of the intersection ahead, such as a T or Y junction, skewed junction, or staggered junction.",
+      "declinations": [
+        "VIENNA:A18f-Aa-V1",
+        "VIENNA:A18f-Aa-V2",
+        "VIENNA:A18f-Aa-V3",
+        "VIENNA:A18f-Aa-V4",
+        "VIENNA:A18f-Ab-V1",
+        "VIENNA:A18f-Ab-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A19a",
+      "name": "Intersection with Priority",
+      "description": "Sign A19 warns drivers that multiple roadways intersect ahead, but that the driver has priority over all other approaches to proceed through the intersection. Vehicles coming from other approaches are required to give way. The symbol on the sign may be altered to accurately depict the layout of the intersection ahead.",
+      "declinations": [
+        "VIENNA:A19a-Aa-V1",
+        "VIENNA:A19a-Aa-V2",
+        "VIENNA:A19a-Aa-V3",
+        "VIENNA:A19a-Aa-V4",
+        "VIENNA:A19a-Ab-V1",
+        "VIENNA:A19a-Ab-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A19b",
+      "name": "Intersection with Priority (alternative)",
+      "description": "Sign A19 warns drivers that multiple roadways intersect ahead, but that the driver has priority over all other approaches to proceed through the intersection. Vehicles coming from other approaches are required to give way. The symbol on the sign may be altered to accurately depict the layout of the intersection ahead.",
+      "declinations": [
+        "VIENNA:A19b-Aa-V1-1",
+        "VIENNA:A19b-Aa-V1-2",
+        "VIENNA:A19b-Aa-V1-3",
+        "VIENNA:A19b-Aa-V1-4",
+        "VIENNA:A19b-Aa-V2-1",
+        "VIENNA:A19b-Aa-V2-2",
+        "VIENNA:A19b-Aa-V2-3",
+        "VIENNA:A19b-Aa-V2-4",
+        "VIENNA:A19b-Ab-V1-1",
+        "VIENNA:A19b-Ab-V1-2",
+        "VIENNA:A19b-Ab-V2-1",
+        "VIENNA:A19b-Ab-V2-2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A19c",
+      "name": "Intersection with Priority (alternative)",
+      "description": "Sign A19 warns drivers that multiple roadways intersect ahead, but that the driver has priority over all other approaches to proceed through the intersection. Vehicles coming from other approaches are required to give way. The symbol on the sign may be altered to accurately depict the layout of the intersection ahead.",
+      "declinations": [
+        "VIENNA:A19c-Aa-V1-1",
+        "VIENNA:A19c-Aa-V1-2",
+        "VIENNA:A19c-Aa-V1-3",
+        "VIENNA:A19c-Aa-V1-4",
+        "VIENNA:A19c-Aa-V2-1",
+        "VIENNA:A19c-Aa-V2-2",
+        "VIENNA:A19c-Aa-V2-3",
+        "VIENNA:A19c-Aa-V2-4",
+        "VIENNA:A19c-Ab-V1-1",
+        "VIENNA:A19c-Ab-V1-2",
+        "VIENNA:A19c-Ab-V2-1",
+        "VIENNA:A19c-Ab-V2-2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A20",
+      "name": "Give Way Ahead",
+      "description": "Sign A20 warns drivers that they are approaching an intersection where they will be controlled by sign B1 and will be required to slow down and give way to all other traffic. The symbol shall consist of the outline of sign B1 .",
+      "declinations": [
+        "VIENNA:A20-Aa-T2-1",
+        "VIENNA:A20-Aa-T2-2",
+        "VIENNA:A20-Aa-V1",
+        "VIENNA:A20-Aa-V2",
+        "VIENNA:A20-Aa-V3",
+        "VIENNA:A20-Aa-V4",
+        "VIENNA:A20-Ab-V1",
+        "VIENNA:A20-Ab-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A21",
+      "name": "Stop Ahead",
+      "description": "Sign A21 warns drivers that they are approaching an intersection where they will be controlled by sign B2 and will be required to come to a complete stop and give way to all other traffic. The symbol shall consist of the outline of sign B2a or B2b . The symbol chosen shall reflect the same model of STOP sign that the respective signatory country uses.",
+      "declinations": [
+        "VIENNA:A21-Aa-T2-1",
+        "VIENNA:A21-Aa-T2-2",
+        "VIENNA:A21-a-Aa-V1",
+        "VIENNA:A21-a-Aa-V2",
+        "VIENNA:A21-a-Aa-V3",
+        "VIENNA:A21-a-Aa-V4",
+        "VIENNA:A21-a-Ab-V1",
+        "VIENNA:A21-a-Ab-V2",
+        "VIENNA:A21-b-Aa-V1",
+        "VIENNA:A21-b-Aa-V2",
+        "VIENNA:A21-b-Aa-V3",
+        "VIENNA:A21-b-Aa-V4",
+        "VIENNA:A21-b-Ab-V1",
+        "VIENNA:A21-b-Ab-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A22",
+      "name": "Roundabout",
+      "description": "Sign A22 warns drivers that there is a roundabout ahead and that all traffic will circulate in one direction. Drivers should slow down and prepare to give way to traffic on their left. The symbol shall be reversed for countries that drive on the left. In these countries, drivers will give way to traffic on their right. Vehicles already inside the roundabout have priority over all vehicles yet to enter the roundabout.",
+      "declinations": [
+        "VIENNA:A22-Aa-V1",
+        "VIENNA:A22-Aa-V1-LHT",
+        "VIENNA:A22-Aa-V2",
+        "VIENNA:A22-Aa-V2-LHT",
+        "VIENNA:A22-Aa-V3",
+        "VIENNA:A22-Aa-V3-LHT",
+        "VIENNA:A22-Aa-V4",
+        "VIENNA:A22-Aa-V4-LHT",
+        "VIENNA:A22-Ab-V1",
+        "VIENNA:A22-Ab-V1-LHT",
+        "VIENNA:A22-Ab-V2",
+        "VIENNA:A22-Ab-V2-LHT"
+      ]
+    },
+    {
+      "reference": "VIENNA:A23",
+      "name": "Two-Way Traffic",
+      "description": "Sign A23 warns drivers that there is undivided two-way traffic ahead. It is used when a dual carriageway becomes a single carriageway or when a one-way street becomes a two-way street. The symbol shall be reversed for countries that drive on the left.",
+      "declinations": [
+        "VIENNA:A23-Aa-V1",
+        "VIENNA:A23-Aa-V1-LHT",
+        "VIENNA:A23-Aa-V2",
+        "VIENNA:A23-Aa-V2-LHT",
+        "VIENNA:A23-Aa-V3",
+        "VIENNA:A23-Aa-V3-LHT",
+        "VIENNA:A23-Aa-V4",
+        "VIENNA:A23-Aa-V4-LHT",
+        "VIENNA:A23-Ab-V1",
+        "VIENNA:A23-Ab-V1-LHT",
+        "VIENNA:A23-Ab-V2",
+        "VIENNA:A23-Ab-V2-LHT"
+      ]
+    },
+    {
+      "reference": "VIENNA:A24",
+      "name": "Traffic Congestion",
+      "description": "Sign A24 warns drivers that the section of roadway ahead is often subject to congestion, or that for some other reason the driver is likely to encounter traffic queues. The symbol may be reversed.",
+      "declinations": [
+        "VIENNA:A24-Aa-V1-1",
+        "VIENNA:A24-Aa-V1-2",
+        "VIENNA:A24-Aa-V1-3",
+        "VIENNA:A24-Aa-V1-4",
+        "VIENNA:A24-Aa-V2-1",
+        "VIENNA:A24-Aa-V2-2",
+        "VIENNA:A24-Aa-V2-3",
+        "VIENNA:A24-Aa-V2-4",
+        "VIENNA:A24-Ab-V1-1",
+        "VIENNA:A24-Ab-V1-2",
+        "VIENNA:A24-Ab-V2-1",
+        "VIENNA:A24-Ab-V2-2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A25",
+      "name": "Level Crossing Ahead (with Gates)",
+      "description": "Sign A25 warns drivers of a railway crossing ahead that is protected by automatic gates or other barriers. The symbol is designed to represent both a pair of railway tracks and a railway gate.",
+      "declinations": [
+        "VIENNA:A25-Aa-V1",
+        "VIENNA:A25-Aa-V2",
+        "VIENNA:A25-Aa-V3",
+        "VIENNA:A25-Aa-V4",
+        "VIENNA:A25-Ab-V1",
+        "VIENNA:A25-Ab-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A26a",
+      "name": "Level Crossing Ahead (without Gates)",
+      "description": "Sign A26 warns drivers of a railway crossing ahead that is not protected by any form of automatic gates or other barriers. The crossing may also lack flashing red signals or audible warnings, or may be a private railway. At such crossings, the driver should perform the STOP - LOOK - LISTEN procedure. The sign may come in two models. Model 26a depicts a locomotive engine. The symbol should face outwards towards the roadway. The symbol shall be reversed for countries that drive on the left. Model 26b depicts two crossed roads in the form of an bisected by a railway track. The European Annex forbids the use of model 26b .",
+      "declinations": [
+        "VIENNA:A26a-Aa-V1",
+        "VIENNA:A26a-Aa-V1-LHT",
+        "VIENNA:A26a-Aa-V2",
+        "VIENNA:A26a-Aa-V2-LHT",
+        "VIENNA:A26a-Aa-V3",
+        "VIENNA:A26a-Aa-V3-LHT",
+        "VIENNA:A26a-Aa-V4",
+        "VIENNA:A26a-Aa-V4-LHT",
+        "VIENNA:A26a-Ab-V1",
+        "VIENNA:A26a-Ab-V1-LHT",
+        "VIENNA:A26a-Ab-V2",
+        "VIENNA:A26a-Ab-V2-LHT"
+      ]
+    },
+    {
+      "reference": "VIENNA:A26b",
+      "name": "Level Crossing Ahead (without Gates) (alternative)",
+      "description": "Sign A26 warns drivers of a railway crossing ahead that is not protected by any form of automatic gates or other barriers. The crossing may also lack flashing red signals or audible warnings, or may be a private railway. At such crossings, the driver should perform the STOP - LOOK - LISTEN procedure. The sign may come in two models. Model 26a depicts a locomotive engine. The symbol should face outwards towards the roadway. The symbol shall be reversed for countries that drive on the left. Model 26b depicts two crossed roads in the form of an bisected by a railway track. The European Annex forbids the use of model 26b .",
+      "declinations": [
+        "VIENNA:A26b-Aa-V1",
+        "VIENNA:A26b-Aa-V2",
+        "VIENNA:A26b-Aa-V3",
+        "VIENNA:A26b-Aa-V4",
+        "VIENNA:A26b-Ab-V1",
+        "VIENNA:A26b-Ab-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A27",
+      "name": "Tramway",
+      "description": "Sign A27 warns drivers that the roadway ahead is shared with a tram line or that a tram line crosses the roadway ahead.",
+      "declinations": [
+        "VIENNA:A27-Aa-V1",
+        "VIENNA:A27-Aa-V2",
+        "VIENNA:A27-Aa-V3",
+        "VIENNA:A27-Aa-V4",
+        "VIENNA:A27-Ab-V1",
+        "VIENNA:A27-Ab-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A28a",
+      "name": "Level Crossing",
+      "description": "Whereas signs A25 and A26 warn of a level crossing ahead, sign A28 indicates the location of the level crossing itself and is placed immediately in front of where the tracks cross the roadway. The sign may come in two models. Both models consist of two arms not less than 1.20 metres long, crossed in the form of an . If lateral clearance obstructs the placement of the sign, it may be rotated 90° so that its points are directed vertically. The sign is commonly referred to as a \"crossbuck\" or \"St. Andrew's Cross\" because of its shape. Model 28a/b may have a white or yellow ground with a thick red or black border. If used at a level crossing with more than 1 set of tracks, a half cross may be added below. Model 28c may have a white or yellow ground with a thin black border, and an inscription such as (but not limited to) \"RAILWAY CROSSING\" in English or the national language of the respective signatory country. If used at a level crossing with more than 1 set of tracks, a supplementary plate may be included below indicating the number of tracks. The European Annex forbids the use of model 28c . The European Annex also permits an alternative version with a white or yellow ground and red stripes, \"...on condition that neither the general appearance nor the effectiveness of the signs is impaired thereby.\"",
+      "declinations": [
+        "VIENNA:A28a-A-V1-1",
+        "VIENNA:A28a-A-V1-1-EA",
+        "VIENNA:A28a-A-V1-2",
+        "VIENNA:A28a-A-V1-2-EA",
+        "VIENNA:A28a-A-V1-3",
+        "VIENNA:A28a-A-V1-4",
+        "VIENNA:A28a-A-V2-1",
+        "VIENNA:A28a-A-V2-1-EA",
+        "VIENNA:A28a-A-V2-2",
+        "VIENNA:A28a-A-V2-2-EA",
+        "VIENNA:A28a-A-V2-3",
+        "VIENNA:A28a-A-V2-4"
+      ]
+    },
+    {
+      "reference": "VIENNA:A28b",
+      "name": "Level Crossing (two tracks)",
+      "description": "Whereas signs A25 and A26 warn of a level crossing ahead, sign A28 indicates the location of the level crossing itself and is placed immediately in front of where the tracks cross the roadway. The sign may come in two models. Both models consist of two arms not less than 1.20 metres long, crossed in the form of an . If lateral clearance obstructs the placement of the sign, it may be rotated 90° so that its points are directed vertically. The sign is commonly referred to as a \"crossbuck\" or \"St. Andrew's Cross\" because of its shape. Model 28a/b may have a white or yellow ground with a thick red or black border. If used at a level crossing with more than 1 set of tracks, a half cross may be added below. Model 28c may have a white or yellow ground with a thin black border, and an inscription such as (but not limited to) \"RAILWAY CROSSING\" in English or the national language of the respective signatory country. If used at a level crossing with more than 1 set of tracks, a supplementary plate may be included below indicating the number of tracks. The European Annex forbids the use of model 28c . The European Annex also permits an alternative version with a white or yellow ground and red stripes, \"...on condition that neither the general appearance nor the effectiveness of the signs is impaired thereby.\"",
+      "declinations": [
+        "VIENNA:A28b-A-V1-1",
+        "VIENNA:A28b-A-V1-1-EA",
+        "VIENNA:A28b-A-V1-2",
+        "VIENNA:A28b-A-V1-2-EA",
+        "VIENNA:A28b-A-V1-3",
+        "VIENNA:A28b-A-V1-4",
+        "VIENNA:A28b-A-V2-1",
+        "VIENNA:A28b-A-V2-1-EA",
+        "VIENNA:A28b-A-V2-2",
+        "VIENNA:A28b-A-V2-2-EA",
+        "VIENNA:A28b-A-V2-3",
+        "VIENNA:A28b-A-V2-4"
+      ]
+    },
+    {
+      "reference": "VIENNA:A28c",
+      "name": "Level Crossing (two tracks) (alternative)",
+      "description": "Whereas signs A25 and A26 warn of a level crossing ahead, sign A28 indicates the location of the level crossing itself and is placed immediately in front of where the tracks cross the roadway. The sign may come in two models. Both models consist of two arms not less than 1.20 metres long, crossed in the form of an . If lateral clearance obstructs the placement of the sign, it may be rotated 90° so that its points are directed vertically. The sign is commonly referred to as a \"crossbuck\" or \"St. Andrew's Cross\" because of its shape. Model 28a/b may have a white or yellow ground with a thick red or black border. If used at a level crossing with more than 1 set of tracks, a half cross may be added below. Model 28c may have a white or yellow ground with a thin black border, and an inscription such as (but not limited to) \"RAILWAY CROSSING\" in English or the national language of the respective signatory country. If used at a level crossing with more than 1 set of tracks, a supplementary plate may be included below indicating the number of tracks. The European Annex forbids the use of model 28c . The European Annex also permits an alternative version with a white or yellow ground and red stripes, \"...on condition that neither the general appearance nor the effectiveness of the signs is impaired thereby.\"",
+      "declinations": [
+        "VIENNA:A28c-A-V1-1",
+        "VIENNA:A28c-A-V1-2",
+        "VIENNA:A28c-A-V2-1",
+        "VIENNA:A28c-A-V2-2",
+        "VIENNA:A28c-A-V3-1",
+        "VIENNA:A28c-A-V3-2",
+        "VIENNA:A28c-A-V4-1",
+        "VIENNA:A28c-A-V4-2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A29a",
+      "name": "Countdown Beacons to a Level Crossing - 3 Beacons",
+      "description": "Sign A29 begins a countdown of the distance to a level crossing or opening bridge ahead. It consists of a panel with a white or yellow ground and red stripes. The stripes shall slant downwards towards the roadway. The sign may be placed on the driver's side only or on both sides of the roadway. The distances marked by these signs are not the same in every country and is dependent on domestic legislation. The three most common sequences are 300-200-100 metres, 300-150-75 metres, or 150-100-50 metres.",
+      "declinations": [
+        "VIENNA:A29a-Aa-V1-1",
+        "VIENNA:A29a-Aa-V1-2",
+        "VIENNA:A29a-Aa-V2-1",
+        "VIENNA:A29a-Aa-V2-2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A29b",
+      "name": "Countdown Beacons to a Level Crossing - 2 Beacons",
+      "description": "Sign A29 begins a countdown of the distance to a level crossing or opening bridge ahead. It consists of a panel with a white or yellow ground and red stripes. The stripes shall slant downwards towards the roadway. The sign may be placed on the driver's side only or on both sides of the roadway. The distances marked by these signs are not the same in every country and is dependent on domestic legislation. The three most common sequences are 300-200-100 metres, 300-150-75 metres, or 150-100-50 metres.",
+      "declinations": [
+        "VIENNA:A29b-Aa-V1-1",
+        "VIENNA:A29b-Aa-V1-2",
+        "VIENNA:A29b-Aa-V2-1",
+        "VIENNA:A29b-Aa-V2-2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A29c",
+      "name": "Countdown Beacons to a Level Crossing - 1 Beacon",
+      "description": "Sign A29 begins a countdown of the distance to a level crossing or opening bridge ahead. It consists of a panel with a white or yellow ground and red stripes. The stripes shall slant downwards towards the roadway. The sign may be placed on the driver's side only or on both sides of the roadway. The distances marked by these signs are not the same in every country and is dependent on domestic legislation. The three most common sequences are 300-200-100 metres, 300-150-75 metres, or 150-100-50 metres.",
+      "declinations": [
+        "VIENNA:A29c-Aa-V1-1",
+        "VIENNA:A29c-Aa-V1-2",
+        "VIENNA:A29c-Aa-V2-1",
+        "VIENNA:A29c-Aa-V2-2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A30",
+      "name": "Low-Flying Aircraft",
+      "description": "Sign A30 warns drivers that the section of roadway ahead is near an aeroport, aerodrome, airfield, or some other area where aircraft are likely to be taking off and landing or flying at a low altitude, and that the driver should not be alarmed by low aircraft. The symbol may be reversed.",
+      "declinations": [
+        "VIENNA:A30-Aa-V1-1",
+        "VIENNA:A30-Aa-V1-2",
+        "VIENNA:A30-Aa-V1-3",
+        "VIENNA:A30-Aa-V1-4",
+        "VIENNA:A30-Aa-V2-1",
+        "VIENNA:A30-Aa-V2-2",
+        "VIENNA:A30-Aa-V2-3",
+        "VIENNA:A30-Aa-V2-4",
+        "VIENNA:A30-Ab-V1-1",
+        "VIENNA:A30-Ab-V1-2",
+        "VIENNA:A30-Ab-V2-1",
+        "VIENNA:A30-Ab-V2-2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A31",
+      "name": "Crosswinds",
+      "description": "Sign A31 warns drivers that the section of roadway ahead is liable to strong crosswinds or sudden gusts. These winds can be dangerous, especially for vehicles with a large profile such as buses and lorries. The symbol chosen is the illustration of a windsock . The symbol may be reversed. Some signatories reverse the symbol depending on whether these winds come predominantly from the left or right side of the roadway.",
+      "declinations": [
+        "VIENNA:A31-Aa-V1-1",
+        "VIENNA:A31-Aa-V1-2",
+        "VIENNA:A31-Aa-V1-3",
+        "VIENNA:A31-Aa-V1-4",
+        "VIENNA:A31-Aa-V2-1",
+        "VIENNA:A31-Aa-V2-2",
+        "VIENNA:A31-Aa-V2-3",
+        "VIENNA:A31-Aa-V2-4",
+        "VIENNA:A31-Ab-V1-1",
+        "VIENNA:A31-Ab-V1-2",
+        "VIENNA:A31-Ab-V2-1",
+        "VIENNA:A31-Ab-V2-2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A32",
+      "name": "Danger",
+      "description": "Sign A32 warns drivers of a danger ahead for which a symbolic sign does not exist. It must always include a supplementary plate below describing the danger. Signatories are permitted however to create other symbolic signs aside from those included in the Convention, on the condition that the symbols should be easy to comprehend.",
+      "declinations": [
+        "VIENNA:A32-Aa-V1",
+        "VIENNA:A32-Aa-V2",
+        "VIENNA:A32-Aa-V3",
+        "VIENNA:A32-Aa-V4",
+        "VIENNA:A32-Ab-V1",
+        "VIENNA:A32-Ab-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:A33",
+      "name": "Pedestrians",
+      "description": "Whereas sign A12 warns of a dedicated pedestrian crossing ahead, sign A33 warns of a section of roadway ahead that is shared with pedestrians. This sign is an addition to the Vienna Convention under the European Annex. Whilst the European Annex mandates the use of warning sign model Aa , model Ab is included for the completeness of this article. The symbol shall be reversed for countries that drive on the left.",
+      "declinations": [
+        "VIENNA:A33-Aa-V1-EA",
+        "VIENNA:A33-Aa-V1-LHT-EA",
+        "VIENNA:A33-Aa-V2-EA",
+        "VIENNA:A33-Aa-V2-LHT-EA",
+        "VIENNA:A33-Aa-V3-EA",
+        "VIENNA:A33-Aa-V3-LHT-EA",
+        "VIENNA:A33-Aa-V4-EA",
+        "VIENNA:A33-Aa-V4-LHT-EA",
+        "VIENNA:A33-Ab-V1-EA",
+        "VIENNA:A33-Ab-V1-LHT-EA",
+        "VIENNA:A33-Ab-V2-EA",
+        "VIENNA:A33-Ab-V2-LHT-EA"
+      ]
+    },
+    {
+      "reference": "VIENNA:A34",
+      "name": "Slippery Road - Ice or Snow",
+      "description": "Whereas sign A9 may warn of a slippery road surface due to a variety of conditions, the Vienna Convention permits the narrowing of that warning to just during wintertime conditions such as ice or snow. The Convention calls for this to be accomplished by adding a supplementary plate below A9 with the symbol of a snowflake. The European Annex to the Convention however permits the snowflake symbol to be used as a standalone sign. This sign is an addition to the Vienna Convention under the European Annex. Whilst the European Annex mandates the use of warning sign model Aa , model Ab is included for the completeness of this article.",
+      "declinations": [
+        "VIENNA:A34-Aa-V1-EA",
+        "VIENNA:A34-Aa-V2-EA",
+        "VIENNA:A34-Aa-V3-EA",
+        "VIENNA:A34-Aa-V4-EA",
+        "VIENNA:A34-Ab-V1-EA",
+        "VIENNA:A34-Ab-V2-EA"
+      ]
+    },
+    {
+      "reference": "VIENNA:A35",
+      "name": "Accident",
+      "description": "Sign A35 warns of a road accident. It may be used temporarily by police to warn of a crash scene ahead, or as a permanent sign warning of a section of roadway ahead that is highly prone to accidents. This sign is an addition to the Vienna Convention under the European Annex. Whilst the European Annex mandates the use of warning sign model Aa , model Ab is included for the completeness of this article.",
+      "declinations": [
+        "VIENNA:A35-Aa-V1-EA",
+        "VIENNA:A35-Aa-V2-EA",
+        "VIENNA:A35-Aa-V3-EA",
+        "VIENNA:A35-Aa-V4-EA",
+        "VIENNA:A35-Ab-V1-EA",
+        "VIENNA:A35-Ab-V2-EA"
+      ]
+    },
+    {
+      "reference": "VIENNA:A36",
+      "name": "Reduced Visibility",
+      "description": "Sign A36 warns of reduced visibility ahead, most commonly due to fog or severe weather. This sign is an addition to the Vienna Convention under the European Annex. Whilst the European Annex mandates the use of warning sign model Aa , model Ab is included for the completeness of this article.",
+      "declinations": [
+        "VIENNA:A36-Aa-V1-EA",
+        "VIENNA:A36-Aa-V2-EA",
+        "VIENNA:A36-Aa-V3-EA",
+        "VIENNA:A36-Aa-V4-EA",
+        "VIENNA:A36-Ab-V1-EA",
+        "VIENNA:A36-Ab-V2-EA"
+      ]
+    },
+    {
+      "reference": "VIENNA:B1",
+      "name": "Give Way",
+      "description": "Sign B1 instructs drivers at the approach of an intersection that they must slow down (and stop if necessary) and give way to all other traffic. The sign shall consist of a red equilateral triangle facing downwards with a ground of either white or yellow. The sign should be blank with no inscription or symbol, though several signatory countries do not follow this rule. The Vienna Convention exclusively uses the term GIVE WAY, though some signatory countries prefer the term YIELD. Other terms are used in other languages.",
+      "declinations": [
+        "VIENNA:B1-V1",
+        "VIENNA:B1-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:B2a",
+      "name": "Stop (Octogonal Sign)",
+      "description": "Sign B2 instructs drivers at the approach of an intersection that they must come to a complete stop and give way to all other traffic. The sign may come in two models. Model B2a shall consist of a red octagon with a white border, and the word STOP in white. The height of the word STOP should be not less than 1/3 of the height of the sign overall. Model B2b shall consist of a red circle with a red equilateral triangle facing downwards, a ground of either white or yellow, and the word STOP placed inside the triangle. The word STOP may be in either black or dark blue. The word STOP may be inscribed in English or in the national language of the respective signatory country. The European Annex mandates the use of use model B2a. The European Annex also permits the border and text of the sign to be in \"light yellow\".",
+      "declinations": [
+        "VIENNA:B2a-EA",
+        "VIENNA:B2a-V1"
+      ]
+    },
+    {
+      "reference": "VIENNA:B2b",
+      "name": "Stop (Circular Sign)",
+      "description": "Sign B2 instructs drivers at the approach of an intersection that they must come to a complete stop and give way to all other traffic. The sign may come in two models. Model B2a shall consist of a red octagon with a white border, and the word STOP in white. The height of the word STOP should be not less than 1/3 of the height of the sign overall. Model B2b shall consist of a red circle with a red equilateral triangle facing downwards, a ground of either white or yellow, and the word STOP placed inside the triangle. The word STOP may be in either black or dark blue. The word STOP may be inscribed in English or in the national language of the respective signatory country. The European Annex mandates the use of use model B2a. The European Annex also permits the border and text of the sign to be in \"light yellow\".",
+      "declinations": [
+        "VIENNA:B2b-V1",
+        "VIENNA:B2b-V2",
+        "VIENNA:B2b-V3",
+        "VIENNA:B2b-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:B3",
+      "name": "Priority Road",
+      "description": "The PRIORITY ROAD sign shall consist of a white square with a black rim, and in the centre shall be a smaller square in either yellow or orange, also with a black rim. The panel shall be rotated 45° overall.",
+      "declinations": [
+        "VIENNA:B3-V1",
+        "VIENNA:B3-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:B4",
+      "name": "End of Priority",
+      "description": "The END OF PRIORITY sign shall consist of sign B3 with the addition of a slash from the upper right to the lower left of the sign. The slash may consist of a single wide band or several smaller parallel stripes, and may be black or grey.",
+      "declinations": [
+        "VIENNA:B4-V1",
+        "VIENNA:B4-V2",
+        "VIENNA:B4-V3",
+        "VIENNA:B4-V4",
+        "VIENNA:B4-V5",
+        "VIENNA:B4-V6",
+        "VIENNA:B4-V7",
+        "VIENNA:B4-V8"
+      ]
+    },
+    {
+      "reference": "VIENNA:B5",
+      "name": "Priority for Oncoming Traffic",
+      "description": "Sign B5 is placed at narrow sections of the roadway where it is difficult or impossible for two vehicles to pass side by side, and instructs drivers to wait and allow opposing traffic to pass first. The sign shall consist of a red circle with a white or yellow ground and two arrows facing opposing directions. The arrow indicating priority shall be black whilst the arrow indicating a lack of priority shall be red. The symbol shall be reversed for countries that drive on the left.",
+      "declinations": [
+        "VIENNA:B5-V1",
+        "VIENNA:B5-V1-LHT",
+        "VIENNA:B5-V2",
+        "VIENNA:B5-V2-LHT"
+      ]
+    },
+    {
+      "reference": "VIENNA:B6",
+      "name": "Priority Over Oncoming Traffic",
+      "description": "Sign B6 is placed at narrow sections of the roadway where it is difficult or impossible for two vehicles to pass side by side, and instructs drivers that they have priority and that opposing traffic will wait for them to pass. The sign shall consist of a blue square or rectangle and two arrows facing opposing directions. The arrow indicating priority shall be white whilst the arrow indicating a lack of priority shall be red. The symbol shall be reversed for countries that drive on the left.",
+      "declinations": [
+        "VIENNA:B6-LHT",
+        "VIENNA:B6-V1"
+      ]
+    },
+    {
+      "reference": "VIENNA:C1",
+      "name": "No Entry",
+      "description": "Sign C1 prohibits the access or entry of all vehicles in one direction. It may come in two models. Model C1a shall be a red circle with a horizontal white or yellow bar across the middle. Model C1b shall be circular with a white or yellow ground and wide red border, and an oblique red bar sloping downwards from left to right. The symbol shall be an upwards facing arrow in black or dark blue. The European Annex to the Vienna Convention forbids the use of model C1b .",
+      "declinations": [
+        "VIENNA:C1-7d-V1-1",
+        "VIENNA:C1-7d-V1-1-LHT",
+        "VIENNA:C1-7d-V1-2",
+        "VIENNA:C1-7d-V1-2-LHT",
+        "VIENNA:C1-7d-V1-3",
+        "VIENNA:C1-7d-V1-3-LHT",
+        "VIENNA:C1-7d-V1-4",
+        "VIENNA:C1-7d-V1-4-LHT",
+        "VIENNA:C1-7d-V2-1",
+        "VIENNA:C1-7d-V2-1-LHT",
+        "VIENNA:C1-7d-V2-2",
+        "VIENNA:C1-7d-V2-2-LHT",
+        "VIENNA:C1-7d-V2-3",
+        "VIENNA:C1-7d-V2-3-LHT",
+        "VIENNA:C1-7d-V2-4",
+        "VIENNA:C1-7d-V2-4-LHT",
+        "VIENNA:C1-a-V1",
+        "VIENNA:C1-a-V2",
+        "VIENNA:C1-b-V1",
+        "VIENNA:C1-b-V2",
+        "VIENNA:C1-b-V3",
+        "VIENNA:C1-b-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C2",
+      "name": "Closed to All Vehicles in Both Directions",
+      "description": "Sign C2 indicates that the roadway is closed to all vehicles in both directions of travel.",
+      "declinations": [
+        "VIENNA:C2-0c",
+        "VIENNA:C2-0d",
+        "VIENNA:C2-V1",
+        "VIENNA:C2-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:C3a",
+      "name": "No Entry for Any Power Driven Vehicle Except Two-Wheeled Motor Cycles Without Sidecar",
+      "description": "Sign C3n prohibits access or entry for vehicles carrying water-polluting substances over a certain quantity. That quantity is determined by domestic legislation. This sign is an addition to the Vienna Convention under the European Annex. Whilst the European Annex mandates that the oblique red bar be omitted, several European countries have taken reservation to include the red oblique bar. This sign is also used in several countries outside of the European continent.",
+      "declinations": [
+        "VIENNA:C3a-V1-1",
+        "VIENNA:C3a-V1-2",
+        "VIENNA:C3a-V1-3",
+        "VIENNA:C3a-V1-4",
+        "VIENNA:C3a-V2-1",
+        "VIENNA:C3a-V2-2",
+        "VIENNA:C3a-V2-3",
+        "VIENNA:C3a-V2-4",
+        "VIENNA:C3a-V3-1",
+        "VIENNA:C3a-V3-2",
+        "VIENNA:C3a-V3-3",
+        "VIENNA:C3a-V3-4",
+        "VIENNA:C3a-f-V1-1",
+        "VIENNA:C3a-f-V1-2",
+        "VIENNA:C3a-f-V1-3",
+        "VIENNA:C3a-f-V1-4",
+        "VIENNA:C3a-f-V2-1",
+        "VIENNA:C3a-f-V2-2",
+        "VIENNA:C3a-f-V2-3",
+        "VIENNA:C3a-f-V2-4",
+        "VIENNA:C3a-f-V3-1",
+        "VIENNA:C3a-f-V3-2",
+        "VIENNA:C3a-f-V3-3",
+        "VIENNA:C3a-f-V3-4",
+        "VIENNA:C3a-g-V1-1",
+        "VIENNA:C3a-g-V1-2",
+        "VIENNA:C3a-g-V1-3",
+        "VIENNA:C3a-g-V1-4",
+        "VIENNA:C3a-g-V2-1",
+        "VIENNA:C3a-g-V2-2",
+        "VIENNA:C3a-g-V2-3",
+        "VIENNA:C3a-g-V2-4",
+        "VIENNA:C3a-g-V3-1",
+        "VIENNA:C3a-g-V3-2",
+        "VIENNA:C3a-g-V3-3",
+        "VIENNA:C3a-g-V3-4",
+        "VIENNA:C3a-m-V1-1-EA",
+        "VIENNA:C3a-m-V1-2-EA",
+        "VIENNA:C3a-m-V1-3-EA",
+        "VIENNA:C3a-m-V1-4-EA",
+        "VIENNA:C3a-m-V2-1-EA",
+        "VIENNA:C3a-m-V2-2-EA",
+        "VIENNA:C3a-m-V2-3-EA",
+        "VIENNA:C3a-m-V2-4-EA",
+        "VIENNA:C3a-m-V3-1-EA",
+        "VIENNA:C3a-m-V3-2-EA",
+        "VIENNA:C3a-m-V3-3-EA",
+        "VIENNA:C3a-m-V3-4-EA",
+        "VIENNA:C3a-n-V1-1-EA",
+        "VIENNA:C3a-n-V1-2-EA",
+        "VIENNA:C3a-n-V1-3-EA",
+        "VIENNA:C3a-n-V1-4-EA",
+        "VIENNA:C3a-n-V2-1-EA",
+        "VIENNA:C3a-n-V2-2-EA",
+        "VIENNA:C3a-n-V2-3-EA",
+        "VIENNA:C3a-n-V2-4-EA",
+        "VIENNA:C3a-n-V3-1-EA",
+        "VIENNA:C3a-n-V3-2-EA",
+        "VIENNA:C3a-n-V3-3-EA",
+        "VIENNA:C3a-n-V3-4-EA"
+      ]
+    },
+    {
+      "reference": "VIENNA:C3b",
+      "name": "No Entry for Motor Cycles",
+      "description": "Sign C3n prohibits access or entry for vehicles carrying water-polluting substances over a certain quantity. That quantity is determined by domestic legislation. This sign is an addition to the Vienna Convention under the European Annex. Whilst the European Annex mandates that the oblique red bar be omitted, several European countries have taken reservation to include the red oblique bar. This sign is also used in several countries outside of the European continent.",
+      "declinations": [
+        "VIENNA:C3b-V1-1",
+        "VIENNA:C3b-V1-2",
+        "VIENNA:C3b-V1-3",
+        "VIENNA:C3b-V1-4",
+        "VIENNA:C3b-V2-1",
+        "VIENNA:C3b-V2-2",
+        "VIENNA:C3b-V2-3",
+        "VIENNA:C3b-V2-4",
+        "VIENNA:C3b-V3-1",
+        "VIENNA:C3b-V3-2",
+        "VIENNA:C3b-V3-3",
+        "VIENNA:C3b-V3-4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C3c",
+      "name": "No Entry for Cycles",
+      "description": "Sign C3n prohibits access or entry for vehicles carrying water-polluting substances over a certain quantity. That quantity is determined by domestic legislation. This sign is an addition to the Vienna Convention under the European Annex. Whilst the European Annex mandates that the oblique red bar be omitted, several European countries have taken reservation to include the red oblique bar. This sign is also used in several countries outside of the European continent.",
+      "declinations": [
+        "VIENNA:C3c-V1-1",
+        "VIENNA:C3c-V1-2",
+        "VIENNA:C3c-V1-3",
+        "VIENNA:C3c-V1-4",
+        "VIENNA:C3c-V2-1",
+        "VIENNA:C3c-V2-2",
+        "VIENNA:C3c-V2-3",
+        "VIENNA:C3c-V2-4",
+        "VIENNA:C3c-V3-1",
+        "VIENNA:C3c-V3-2",
+        "VIENNA:C3c-V3-3",
+        "VIENNA:C3c-V3-4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C3d",
+      "name": "No Entry for Mopeds",
+      "description": "Sign C3n prohibits access or entry for vehicles carrying water-polluting substances over a certain quantity. That quantity is determined by domestic legislation. This sign is an addition to the Vienna Convention under the European Annex. Whilst the European Annex mandates that the oblique red bar be omitted, several European countries have taken reservation to include the red oblique bar. This sign is also used in several countries outside of the European continent.",
+      "declinations": [
+        "VIENNA:C3d-V1-1",
+        "VIENNA:C3d-V1-2",
+        "VIENNA:C3d-V1-3",
+        "VIENNA:C3d-V1-4",
+        "VIENNA:C3d-V2-1",
+        "VIENNA:C3d-V2-2",
+        "VIENNA:C3d-V2-3",
+        "VIENNA:C3d-V2-4",
+        "VIENNA:C3d-V3-1",
+        "VIENNA:C3d-V3-2",
+        "VIENNA:C3d-V3-3",
+        "VIENNA:C3d-V3-4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C3e",
+      "name": "No Entry for Goods Vehicles",
+      "description": "Sign C3n prohibits access or entry for vehicles carrying water-polluting substances over a certain quantity. That quantity is determined by domestic legislation. This sign is an addition to the Vienna Convention under the European Annex. Whilst the European Annex mandates that the oblique red bar be omitted, several European countries have taken reservation to include the red oblique bar. This sign is also used in several countries outside of the European continent.",
+      "declinations": [
+        "VIENNA:C3e-V1-1",
+        "VIENNA:C3e-V1-2",
+        "VIENNA:C3e-V1-3",
+        "VIENNA:C3e-V1-4",
+        "VIENNA:C3e-V2-1",
+        "VIENNA:C3e-V2-2",
+        "VIENNA:C3e-V2-3",
+        "VIENNA:C3e-V2-4",
+        "VIENNA:C3e-V3-1",
+        "VIENNA:C3e-V3-2",
+        "VIENNA:C3e-V3-3",
+        "VIENNA:C3e-V3-4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C3h",
+      "name": "No Entry for Vehicles Carrying Dangerous Goods for Which Special Sign Plating is Prescribed",
+      "description": "Sign C3n prohibits access or entry for vehicles carrying water-polluting substances over a certain quantity. That quantity is determined by domestic legislation. This sign is an addition to the Vienna Convention under the European Annex. Whilst the European Annex mandates that the oblique red bar be omitted, several European countries have taken reservation to include the red oblique bar. This sign is also used in several countries outside of the European continent.",
+      "declinations": [
+        "VIENNA:C3h-V1-1",
+        "VIENNA:C3h-V1-2",
+        "VIENNA:C3h-V1-3",
+        "VIENNA:C3h-V1-4",
+        "VIENNA:C3h-V2-1",
+        "VIENNA:C3h-V2-2",
+        "VIENNA:C3h-V2-3",
+        "VIENNA:C3h-V2-4",
+        "VIENNA:C3h-V3-1",
+        "VIENNA:C3h-V3-2",
+        "VIENNA:C3h-V3-3",
+        "VIENNA:C3h-V3-4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C3i",
+      "name": "No Entry for Pedestrians",
+      "description": "Sign C3n prohibits access or entry for vehicles carrying water-polluting substances over a certain quantity. That quantity is determined by domestic legislation. This sign is an addition to the Vienna Convention under the European Annex. Whilst the European Annex mandates that the oblique red bar be omitted, several European countries have taken reservation to include the red oblique bar. This sign is also used in several countries outside of the European continent.",
+      "declinations": [
+        "VIENNA:C3i-V1-1",
+        "VIENNA:C3i-V1-2",
+        "VIENNA:C3i-V1-3",
+        "VIENNA:C3i-V1-4",
+        "VIENNA:C3i-V2-1",
+        "VIENNA:C3i-V2-2",
+        "VIENNA:C3i-V2-3",
+        "VIENNA:C3i-V2-4",
+        "VIENNA:C3i-V3-1",
+        "VIENNA:C3i-V3-2",
+        "VIENNA:C3i-V3-3",
+        "VIENNA:C3i-V3-4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C3j",
+      "name": "No Entry for Animal-Drawn Vehicles",
+      "description": "Sign C3n prohibits access or entry for vehicles carrying water-polluting substances over a certain quantity. That quantity is determined by domestic legislation. This sign is an addition to the Vienna Convention under the European Annex. Whilst the European Annex mandates that the oblique red bar be omitted, several European countries have taken reservation to include the red oblique bar. This sign is also used in several countries outside of the European continent.",
+      "declinations": [
+        "VIENNA:C3j-V1-1",
+        "VIENNA:C3j-V1-2",
+        "VIENNA:C3j-V1-3",
+        "VIENNA:C3j-V1-4",
+        "VIENNA:C3j-V2-1",
+        "VIENNA:C3j-V2-2",
+        "VIENNA:C3j-V2-3",
+        "VIENNA:C3j-V2-4",
+        "VIENNA:C3j-V3-1",
+        "VIENNA:C3j-V3-2",
+        "VIENNA:C3j-V3-3",
+        "VIENNA:C3j-V3-4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C3k",
+      "name": "No Entry for Handcarts",
+      "description": "Sign C3n prohibits access or entry for vehicles carrying water-polluting substances over a certain quantity. That quantity is determined by domestic legislation. This sign is an addition to the Vienna Convention under the European Annex. Whilst the European Annex mandates that the oblique red bar be omitted, several European countries have taken reservation to include the red oblique bar. This sign is also used in several countries outside of the European continent.",
+      "declinations": [
+        "VIENNA:C3k-V1-1",
+        "VIENNA:C3k-V1-2",
+        "VIENNA:C3k-V1-3",
+        "VIENNA:C3k-V1-4",
+        "VIENNA:C3k-V2-1",
+        "VIENNA:C3k-V2-2",
+        "VIENNA:C3k-V2-3",
+        "VIENNA:C3k-V2-4",
+        "VIENNA:C3k-V3-1",
+        "VIENNA:C3k-V3-2",
+        "VIENNA:C3k-V3-3",
+        "VIENNA:C3k-V3-4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C3l",
+      "name": "No Entry for Power Driven Agricultural Vehicles",
+      "description": "Sign C3n prohibits access or entry for vehicles carrying water-polluting substances over a certain quantity. That quantity is determined by domestic legislation. This sign is an addition to the Vienna Convention under the European Annex. Whilst the European Annex mandates that the oblique red bar be omitted, several European countries have taken reservation to include the red oblique bar. This sign is also used in several countries outside of the European continent.",
+      "declinations": [
+        "VIENNA:C3l-V1-1",
+        "VIENNA:C3l-V1-2",
+        "VIENNA:C3l-V1-3",
+        "VIENNA:C3l-V1-4",
+        "VIENNA:C3l-V2-1",
+        "VIENNA:C3l-V2-2",
+        "VIENNA:C3l-V2-3",
+        "VIENNA:C3l-V2-4",
+        "VIENNA:C3l-V3-1",
+        "VIENNA:C3l-V3-2",
+        "VIENNA:C3l-V3-3",
+        "VIENNA:C3l-V3-4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C4a",
+      "name": "No Entry for Power Driven Vehicles",
+      "description": "Sign C4b prohibits access or entry for all motor vehicles and animal-drawn vehicles.",
+      "declinations": [
+        "VIENNA:C4a-V1",
+        "VIENNA:C4a-V2",
+        "VIENNA:C4a-V3",
+        "VIENNA:C4a-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C4b",
+      "name": "No Entry for Power Driven Vehicles or Animal-Drawn Vehicles",
+      "description": "Sign C4b prohibits access or entry for all motor vehicles and animal-drawn vehicles.",
+      "declinations": [
+        "VIENNA:C4b-V1",
+        "VIENNA:C4b-V2",
+        "VIENNA:C4b-V3",
+        "VIENNA:C4b-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C5",
+      "name": "No Entry for Vehicles Having an Overall Width Exceeding ... Metres",
+      "description": "Sign C5 prohibits access or entry for vehicles exceeding a certain overall width.",
+      "declinations": [
+        "VIENNA:C5-V1",
+        "VIENNA:C5-V2",
+        "VIENNA:C5-V3",
+        "VIENNA:C5-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C6",
+      "name": "No Entry for Vehicles Having an Overall Height Exceeding ... Metres",
+      "description": "Sign C6 prohibits access or entry for vehicles exceeding a certain overall height.",
+      "declinations": [
+        "VIENNA:C6-V1",
+        "VIENNA:C6-V2",
+        "VIENNA:C6-V3",
+        "VIENNA:C6-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C7",
+      "name": "No Entry for Vehicles Exceeding ... Tonnes Laden Mass",
+      "description": "Sign C7 prohibits access or entry for vehicles exceeding a certain overall weight.",
+      "declinations": [
+        "VIENNA:C7-V1",
+        "VIENNA:C7-V2",
+        "VIENNA:C7-V3",
+        "VIENNA:C7-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C8",
+      "name": "No Entry for Vehicles Having a Mass Exceeding ... Tonnes on One Axle",
+      "description": "Sign C8 prohibits access or entry for vehicles exceeding a certain weight per axle.",
+      "declinations": [
+        "VIENNA:C8-V1",
+        "VIENNA:C8-V2",
+        "VIENNA:C8-V3",
+        "VIENNA:C8-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C9",
+      "name": "No Entry for Vehicles or Combinations of Vehicles Exceeding ... Metres in Length",
+      "description": "Sign C9 prohibits access or entry for vehicles exceeding a certain length.",
+      "declinations": [
+        "VIENNA:C9-V1",
+        "VIENNA:C9-V2",
+        "VIENNA:C9-V3",
+        "VIENNA:C9-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C10",
+      "name": "Driving of Vehicles Less Than ... Metres Apart Prohibited",
+      "description": "Sign C10 instructs drivers that they must maintain a certain driving distance between themselves and the vehicle ahead of them. This is primarily for safety reasons.",
+      "declinations": [
+        "VIENNA:C10-V1",
+        "VIENNA:C10-V2",
+        "VIENNA:C10-V3",
+        "VIENNA:C10-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C11a",
+      "name": "No Left Turn",
+      "description": "Sign C11b prohibits turning right.",
+      "declinations": [
+        "VIENNA:C11a-V1",
+        "VIENNA:C11a-V2",
+        "VIENNA:C11a-V3",
+        "VIENNA:C11a-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C11b",
+      "name": "No Right Turn",
+      "description": "Sign C11b prohibits turning right.",
+      "declinations": [
+        "VIENNA:C11b-V1",
+        "VIENNA:C11b-V2",
+        "VIENNA:C11b-V3",
+        "VIENNA:C11b-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C12",
+      "name": "No U-Turn",
+      "description": "Sign C12 prohibits performing a U-turn. The symbol shall be reversed for countries that drive on the left.",
+      "declinations": [
+        "VIENNA:C12-V1",
+        "VIENNA:C12-V1-LHT",
+        "VIENNA:C12-V2",
+        "VIENNA:C12-V2-LHT",
+        "VIENNA:C12-V3",
+        "VIENNA:C12-V3-LHT",
+        "VIENNA:C12-V4",
+        "VIENNA:C12-V4-LHT"
+      ]
+    },
+    {
+      "reference": "VIENNA:C13a",
+      "name": "Overtaking Prohibited",
+      "description": "Sign C13 prohibits vehicles from overtaking. It may come in four models. Models C13aa and C13ab prohibit overtaking for all vehicles. Models C13ba and C13bb prohibit overtaking for goods vehicles. This may be further specified to apply only to goods vehicles over a certain weight by placing an additional plate below. Model C13aa shall depict two cars side-by-side. For countries that drive on the right, the car on the left shall be in red, whilst the car on the right shall be black or dark blue. For countries that drive on the left, this shall be reversed. Model C13ab shall depict two cars side-by-side. Both cars shall be black or dark blue, and be crossed out by an oblique red bar sloping downwards from left to right. Model C13ba shall depict a lorry alongside a car. For countries that drive on the right, the car shall be on the right and in black or dark blue, whilst the lorry shall be on the left and in red. For countries that drive on the left, this shall be reversed. Model C13bb shall depict a lorry alongside a car. Both vehicles shall be black or dark blue, and be crossed out by an oblique red bar sloping downwards from left to right.",
+      "declinations": [
+        "VIENNA:C13a-a-V1",
+        "VIENNA:C13a-a-V1-LHT",
+        "VIENNA:C13a-a-V2",
+        "VIENNA:C13a-a-V2-LHT",
+        "VIENNA:C13a-a-V3",
+        "VIENNA:C13a-a-V3-LHT",
+        "VIENNA:C13a-a-V4",
+        "VIENNA:C13a-a-V4-LHT",
+        "VIENNA:C13a-b-V1",
+        "VIENNA:C13a-b-V2",
+        "VIENNA:C13a-b-V3",
+        "VIENNA:C13a-b-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C13b",
+      "name": "Overtaking by Good Vehicles Prohibited",
+      "description": "Sign C13 prohibits vehicles from overtaking. It may come in four models. Models C13aa and C13ab prohibit overtaking for all vehicles. Models C13ba and C13bb prohibit overtaking for goods vehicles. This may be further specified to apply only to goods vehicles over a certain weight by placing an additional plate below. Model C13aa shall depict two cars side-by-side. For countries that drive on the right, the car on the left shall be in red, whilst the car on the right shall be black or dark blue. For countries that drive on the left, this shall be reversed. Model C13ab shall depict two cars side-by-side. Both cars shall be black or dark blue, and be crossed out by an oblique red bar sloping downwards from left to right. Model C13ba shall depict a lorry alongside a car. For countries that drive on the right, the car shall be on the right and in black or dark blue, whilst the lorry shall be on the left and in red. For countries that drive on the left, this shall be reversed. Model C13bb shall depict a lorry alongside a car. Both vehicles shall be black or dark blue, and be crossed out by an oblique red bar sloping downwards from left to right.",
+      "declinations": [
+        "VIENNA:C13b-a-V1",
+        "VIENNA:C13b-a-V1-LHT",
+        "VIENNA:C13b-a-V2",
+        "VIENNA:C13b-a-V2-LHT",
+        "VIENNA:C13b-a-V3",
+        "VIENNA:C13b-a-V3-LHT",
+        "VIENNA:C13b-a-V4",
+        "VIENNA:C13b-a-V4-LHT",
+        "VIENNA:C13b-b-V1",
+        "VIENNA:C13b-b-V1-LHT",
+        "VIENNA:C13b-b-V2",
+        "VIENNA:C13b-b-V2-LHT",
+        "VIENNA:C13b-b-V3",
+        "VIENNA:C13b-b-V3-LHT",
+        "VIENNA:C13b-b-V4",
+        "VIENNA:C13b-b-V4-LHT"
+      ]
+    },
+    {
+      "reference": "VIENNA:C14",
+      "name": "Maximum Speed Limit to ... Kilometres per Hour",
+      "description": "Sign C14 indicates the maximum speed at which drivers may operate their vehicles. The number on the sign shall indicate the maximum speed in the unit of measurement most commonly used in the country concerned, such as in kilometres per hour or miles per hour. Optionally, a figure indicating the unit of speed may be added after or below the number, such as \"km\", \"km/h\", \"KMPH\", \"km/t\", \"km/tim\", \"km/j\", \"km/jam\", \"กม./ชม.\", \"M\", or \"MPH\". These figures are not limited to the Latin alphabet. For the thoroughness of this article, some examples are provided below. This sign may also apply to vehicles of a certain class only or only those exceeding a certain weight by adding an additional plate below.",
+      "declinations": [
+        "VIENNA:C14-V1-10",
+        "VIENNA:C14-V1-100",
+        "VIENNA:C14-V1-110",
+        "VIENNA:C14-V1-120",
+        "VIENNA:C14-V1-130",
+        "VIENNA:C14-V1-20",
+        "VIENNA:C14-V1-30",
+        "VIENNA:C14-V1-40",
+        "VIENNA:C14-V1-5",
+        "VIENNA:C14-V1-50",
+        "VIENNA:C14-V1-60",
+        "VIENNA:C14-V1-70",
+        "VIENNA:C14-V1-80",
+        "VIENNA:C14-V1-90",
+        "VIENNA:C14-V1_(km-1)",
+        "VIENNA:C14-V1_(km-2)",
+        "VIENNA:C14-V1_(kmh)",
+        "VIENNA:C14-V1_(m)",
+        "VIENNA:C14-V1_(mph)",
+        "VIENNA:C14-V2-10",
+        "VIENNA:C14-V2-100",
+        "VIENNA:C14-V2-110",
+        "VIENNA:C14-V2-120",
+        "VIENNA:C14-V2-130",
+        "VIENNA:C14-V2-20",
+        "VIENNA:C14-V2-30",
+        "VIENNA:C14-V2-40",
+        "VIENNA:C14-V2-5",
+        "VIENNA:C14-V2-50",
+        "VIENNA:C14-V2-60",
+        "VIENNA:C14-V2-70",
+        "VIENNA:C14-V2-80",
+        "VIENNA:C14-V2-90",
+        "VIENNA:C14-V2_(km-1)",
+        "VIENNA:C14-V2_(km-2)",
+        "VIENNA:C14-V2_(kmh)",
+        "VIENNA:C14-V2_(m)",
+        "VIENNA:C14-V2_(mph)",
+        "VIENNA:C14-V3-10",
+        "VIENNA:C14-V3-100",
+        "VIENNA:C14-V3-110",
+        "VIENNA:C14-V3-120",
+        "VIENNA:C14-V3-130",
+        "VIENNA:C14-V3-20",
+        "VIENNA:C14-V3-30",
+        "VIENNA:C14-V3-40",
+        "VIENNA:C14-V3-5",
+        "VIENNA:C14-V3-50",
+        "VIENNA:C14-V3-60",
+        "VIENNA:C14-V3-70",
+        "VIENNA:C14-V3-80",
+        "VIENNA:C14-V3-90",
+        "VIENNA:C14-V3_(km-1)",
+        "VIENNA:C14-V3_(km-2)",
+        "VIENNA:C14-V3_(kmh)",
+        "VIENNA:C14-V3_(m)",
+        "VIENNA:C14-V3_(mph)",
+        "VIENNA:C14-V4-10",
+        "VIENNA:C14-V4-100",
+        "VIENNA:C14-V4-110",
+        "VIENNA:C14-V4-120",
+        "VIENNA:C14-V4-130",
+        "VIENNA:C14-V4-20",
+        "VIENNA:C14-V4-30",
+        "VIENNA:C14-V4-40",
+        "VIENNA:C14-V4-5",
+        "VIENNA:C14-V4-50",
+        "VIENNA:C14-V4-60",
+        "VIENNA:C14-V4-70",
+        "VIENNA:C14-V4-80",
+        "VIENNA:C14-V4-90",
+        "VIENNA:C14-V4_(km-1)",
+        "VIENNA:C14-V4_(km-2)",
+        "VIENNA:C14-V4_(kmh)",
+        "VIENNA:C14-V4_(m)",
+        "VIENNA:C14-V4_(mph)"
+      ]
+    },
+    {
+      "reference": "VIENNA:C15",
+      "name": "Use of Audible Warning Devices Prohibited",
+      "description": "Sign C15 prohibits drivers from using their horn or other audible device.",
+      "declinations": [
+        "VIENNA:C15-V1",
+        "VIENNA:C15-V2",
+        "VIENNA:C15-V3",
+        "VIENNA:C15-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C16",
+      "name": "Passing Without Stopping Prohibited",
+      "description": "Sign C16 prohibits drivers from proceeding beyond the sign without first stopping at some form of checkpoint. The sign shall include text describing the nature of the checkpoint ahead, such as a customs office, police, or toll collection post. The text should preferably be in two languages, those being the two most commonly spoken languages in the wider region. For the thoroughness of this article, some examples are provided below.",
+      "declinations": [
+        "VIENNA:C16-V1",
+        "VIENNA:C16-V1_(Customs-EN-FR)",
+        "VIENNA:C16-V1_(Customs-ES-PT)",
+        "VIENNA:C16-V1_(Customs-FR-DE)",
+        "VIENNA:C16-V1_(Police-AR-FR)",
+        "VIENNA:C16-V1_(Police-FR-DE)",
+        "VIENNA:C16-V1_(Police-SV-NO)",
+        "VIENNA:C16-V1_(Toll-FR-DE)",
+        "VIENNA:C16-V2",
+        "VIENNA:C16-V2_(Customs-EN-FR)",
+        "VIENNA:C16-V2_(Customs-ES-PT)",
+        "VIENNA:C16-V2_(Customs-FR-DE)",
+        "VIENNA:C16-V2_(Police-AR-FR)",
+        "VIENNA:C16-V2_(Police-FR-DE)",
+        "VIENNA:C16-V2_(Police-SV-NO)",
+        "VIENNA:C16-V2_(Toll-FR-DE)",
+        "VIENNA:C16-V3",
+        "VIENNA:C16-V3_(Customs-EN-FR)",
+        "VIENNA:C16-V3_(Customs-ES-PT)",
+        "VIENNA:C16-V3_(Customs-FR-DE)",
+        "VIENNA:C16-V3_(Police-AR-FR)",
+        "VIENNA:C16-V3_(Police-FR-DE)",
+        "VIENNA:C16-V3_(Police-SV-NO)",
+        "VIENNA:C16-V3_(Toll-FR-DE)",
+        "VIENNA:C16-V4",
+        "VIENNA:C16-V4_(Customs-EN-FR)",
+        "VIENNA:C16-V4_(Customs-ES-PT)",
+        "VIENNA:C16-V4_(Customs-FR-DE)",
+        "VIENNA:C16-V4_(Police-AR-FR)",
+        "VIENNA:C16-V4_(Police-FR-DE)",
+        "VIENNA:C16-V4_(Police-SV-NO)",
+        "VIENNA:C16-V4_(Toll-FR-DE)"
+      ]
+    },
+    {
+      "reference": "VIENNA:C17a",
+      "name": "End of All Local Prohibitions Imposed on Moving Vehicles",
+      "description": "Sign C17d marks the end of the previously signed prohibition of overtaking for goods vehicles.",
+      "declinations": [
+        "VIENNA:C17a-V1-1",
+        "VIENNA:C17a-V1-2",
+        "VIENNA:C17a-V1-3",
+        "VIENNA:C17a-V1-4",
+        "VIENNA:C17a-V2-1",
+        "VIENNA:C17a-V2-2",
+        "VIENNA:C17a-V2-3",
+        "VIENNA:C17a-V2-4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C17b",
+      "name": "End of Speed Limit",
+      "description": "Sign C17d marks the end of the previously signed prohibition of overtaking for goods vehicles.",
+      "declinations": [
+        "VIENNA:C17b-V1-1",
+        "VIENNA:C17b-V1-2",
+        "VIENNA:C17b-V1-3",
+        "VIENNA:C17b-V1-4",
+        "VIENNA:C17b-V2-1",
+        "VIENNA:C17b-V2-2",
+        "VIENNA:C17b-V2-3",
+        "VIENNA:C17b-V2-4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C17c",
+      "name": "End of Overtaking Prohibition",
+      "description": "Sign C17d marks the end of the previously signed prohibition of overtaking for goods vehicles.",
+      "declinations": [
+        "VIENNA:C17c-V1-1",
+        "VIENNA:C17c-V1-2",
+        "VIENNA:C17c-V1-3",
+        "VIENNA:C17c-V1-4",
+        "VIENNA:C17c-V2-1",
+        "VIENNA:C17c-V2-2",
+        "VIENNA:C17c-V2-3",
+        "VIENNA:C17c-V2-4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C18",
+      "name": "Parking Prohibited",
+      "description": "Sign C18 prohibits the parking of vehicles. The sign shall be circular with a blue ground and wide red border, with an oblique red bar sloping downwards from left to right. Alternatively, the sign may have a white or yellow ground and depict the initial letter or ideogram used in the respective country to denote parking. An example with the letter P (for \"parking\" in the English language) is provided. It should be noted that the Convention states the symbol must be in black only. It is unclear if this is deliberate or an accidental omission of also allowing symbols on prohibitory signs to be in dark blue. For the thoroughness of this article, versions with P in dark blue have been included.",
+      "declinations": [
+        "VIENNA:C18-V1",
+        "VIENNA:C18-V2",
+        "VIENNA:C18-V3",
+        "VIENNA:C18-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:C19",
+      "name": "Stopping and Parking Prohibited",
+      "description": "Sign C19 prohibits the stopping or parking of vehicles. The sign shall be circular with a blue ground and wide red border, with oblique red bars sloping downwards from left to right and right to left.",
+      "declinations": [
+        "VIENNA:C19-V1"
+      ]
+    },
+    {
+      "reference": "VIENNA:C20a",
+      "name": "Alternate Parking",
+      "description": "Sign C20 is used to enforce an alternate parking scheme. The sign shall be circular with a blue ground and wide red border, with an oblique red bar sloping downwards from left to right. The sign shall include the Roman numbers I and II , where the numeral I shall prohibit parking on odd-numbered days whilst the numeral II shall prohibit parking on even-numbered days. An alternative scheme is to for the sign to include the numbers 1-15 and 16-31 , where 1-15 shall prohibit parking on the first half of the month whilst 16-31 shall prohibit parking on the second half of the month.",
+      "declinations": [
+        "VIENNA:C20a-V1"
+      ]
+    },
+    {
+      "reference": "VIENNA:C20b",
+      "name": "Alternate Parking (alternative)",
+      "description": "Sign C20 is used to enforce an alternate parking scheme. The sign shall be circular with a blue ground and wide red border, with an oblique red bar sloping downwards from left to right. The sign shall include the Roman numbers I and II , where the numeral I shall prohibit parking on odd-numbered days whilst the numeral II shall prohibit parking on even-numbered days. An alternative scheme is to for the sign to include the numbers 1-15 and 16-31 , where 1-15 shall prohibit parking on the first half of the month whilst 16-31 shall prohibit parking on the second half of the month.",
+      "declinations": [
+        "VIENNA:C20b-V1"
+      ]
+    },
+    {
+      "reference": "VIENNA:D1",
+      "name": "Direction to be followed",
+      "description": "Sign D1 instructs drivers of the direction in which they are required to proceed.",
+      "declinations": [
+        "VIENNA:D1-a-V1",
+        "VIENNA:D1-a-V2",
+        "VIENNA:D1-a-V3",
+        "VIENNA:D1-a-V4",
+        "VIENNA:D1-a-V5",
+        "VIENNA:D1-a-V6",
+        "VIENNA:D1-a-V7",
+        "VIENNA:D1-b-V1-1",
+        "VIENNA:D1-b-V1-2",
+        "VIENNA:D1-b-V1-3",
+        "VIENNA:D1-b-V1-4",
+        "VIENNA:D1-b-V2-1",
+        "VIENNA:D1-b-V2-2",
+        "VIENNA:D1-b-V2-3",
+        "VIENNA:D1-b-V2-4",
+        "VIENNA:D1-b-V3-1",
+        "VIENNA:D1-b-V3-2",
+        "VIENNA:D1-b-V3-3",
+        "VIENNA:D1-b-V3-4",
+        "VIENNA:D1-b-V4-1",
+        "VIENNA:D1-b-V4-2",
+        "VIENNA:D1-b-V4-3",
+        "VIENNA:D1-b-V4-4",
+        "VIENNA:D1-b-V5-1",
+        "VIENNA:D1-b-V5-2",
+        "VIENNA:D1-b-V5-3",
+        "VIENNA:D1-b-V5-4",
+        "VIENNA:D1-b-V6-1",
+        "VIENNA:D1-b-V6-2",
+        "VIENNA:D1-b-V6-3",
+        "VIENNA:D1-b-V6-4",
+        "VIENNA:D1-b-V7-1",
+        "VIENNA:D1-b-V7-2",
+        "VIENNA:D1-b-V7-3",
+        "VIENNA:D1-b-V7-4"
+      ]
+    },
+    {
+      "reference": "VIENNA:D2",
+      "name": "Pass This Side",
+      "description": "Sign D2 instructs drivers of the side on which they must pass a traffic island or other obstruction.",
+      "declinations": [
+        "VIENNA:D2-a-V1",
+        "VIENNA:D2-a-V2",
+        "VIENNA:D2-b-V1-1",
+        "VIENNA:D2-b-V1-2",
+        "VIENNA:D2-b-V1-3",
+        "VIENNA:D2-b-V1-4",
+        "VIENNA:D2-b-V2-1",
+        "VIENNA:D2-b-V2-2",
+        "VIENNA:D2-b-V2-3",
+        "VIENNA:D2-b-V2-4"
+      ]
+    },
+    {
+      "reference": "VIENNA:D3",
+      "name": "Compulsory Roundabout",
+      "description": "Sign D3 instructs drivers that they are entering a roundabout and are required to proceed in a circular motion.",
+      "declinations": [
+        "VIENNA:D3-a",
+        "VIENNA:D3-a-LHT",
+        "VIENNA:D3-b-V1",
+        "VIENNA:D3-b-V1-LHT",
+        "VIENNA:D3-b-V2",
+        "VIENNA:D3-b-V2-LHT",
+        "VIENNA:D3-b-V3",
+        "VIENNA:D3-b-V3-LHT",
+        "VIENNA:D3-b-V4",
+        "VIENNA:D3-b-V4-LHT"
+      ]
+    },
+    {
+      "reference": "VIENNA:D4",
+      "name": "Compulsory Cycle Track",
+      "description": "Sign D4 instructs cyclists that a pathway is reserved for their use.",
+      "declinations": [
+        "VIENNA:D4-a",
+        "VIENNA:D4-b-V1",
+        "VIENNA:D4-b-V2",
+        "VIENNA:D4-b-V3",
+        "VIENNA:D4-b-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:D5",
+      "name": "Compulsory Footpath",
+      "description": "Sign D5 instructs pedestrians that a pathway is reserved for their use.",
+      "declinations": [
+        "VIENNA:D5-a",
+        "VIENNA:D5-b-V1",
+        "VIENNA:D5-b-V2",
+        "VIENNA:D5-b-V3",
+        "VIENNA:D5-b-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:D6",
+      "name": "Compulsory Track for Riders on Horseback",
+      "description": "Sign D6 instructs horse riders that a pathway is reserved for their use.",
+      "declinations": [
+        "VIENNA:D6-a",
+        "VIENNA:D6-b-V1",
+        "VIENNA:D6-b-V2",
+        "VIENNA:D6-b-V3",
+        "VIENNA:D6-b-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:D7",
+      "name": "Compulsory Minimum Speed",
+      "description": "Sign D7 indicates the minimum speed at which drivers may operate their vehicles. As with sign C14 , it is optional to include a figure indicating the unit of speed after or below the number. This sign is only provided for in Model Da , since using Model Db would be identical to sign C14 . Signatories that have elected to use Model Db must therefore find an alternative way of signing minimum speed limits.",
+      "declinations": [
+        "VIENNA:D7-V1"
+      ]
+    },
+    {
+      "reference": "VIENNA:D8",
+      "name": "End of Compulsory Minimum Speed",
+      "description": "Sign D8 indicates the end of the previously signed minimum speed limit. It shall consist of sign D7 with a single wide band slanting downwards from right to left in red.",
+      "declinations": [
+        "VIENNA:D8-V1"
+      ]
+    },
+    {
+      "reference": "VIENNA:D9",
+      "name": "Snow Chains Compulsory",
+      "description": "Sign D9 instructs drivers that they may not proceed beyond this sign without having snow chains, studs, or other anti-slip devices attached to their tyres.",
+      "declinations": [
+        "VIENNA:D9-a",
+        "VIENNA:D9-b-V1",
+        "VIENNA:D9-b-V2",
+        "VIENNA:D9-b-V3",
+        "VIENNA:D9-b-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:D10a",
+      "name": "Mandatory Direction for Vehicles Carrying Dangerous Goods",
+      "description": "Sign D10 instructs drivers of vehicles carrying dangerous goods of the direction in which they are required to proceed.",
+      "declinations": [
+        "VIENNA:D10a-a",
+        "VIENNA:D10a-b-V1",
+        "VIENNA:D10a-b-V2",
+        "VIENNA:D10a-b-V3",
+        "VIENNA:D10a-b-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:D10b",
+      "name": "Mandatory Direction for Vehicles Carrying Dangerous Goods (alternative)",
+      "description": "Sign D10 instructs drivers of vehicles carrying dangerous goods of the direction in which they are required to proceed.",
+      "declinations": [
+        "VIENNA:D10b-a",
+        "VIENNA:D10b-b-V1",
+        "VIENNA:D10b-b-V2",
+        "VIENNA:D10b-b-V3",
+        "VIENNA:D10b-b-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:D10c",
+      "name": "Mandatory Direction for Vehicles Carrying Dangerous Goods (alternative)",
+      "description": "Sign D10 instructs drivers of vehicles carrying dangerous goods of the direction in which they are required to proceed.",
+      "declinations": [
+        "VIENNA:D10c-a",
+        "VIENNA:D10c-b-V1",
+        "VIENNA:D10c-b-V2",
+        "VIENNA:D10c-b-V3",
+        "VIENNA:D10c-b-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:D11",
+      "name": "Combination Signs",
+      "description": "Symbols from several mandatory signs may be combined onto a single sign where applicable. The example provided is that of a pathway reserved for the use of both cyclists and pedestrians. Where the symbols are separated by a thick bar, this signifies that the pathway is segregated, as in the example below requiring cyclists to stay to the left and pedestrians to stay to the right.",
+      "declinations": [
+        "VIENNA:D11-aa",
+        "VIENNA:D11-ab-V1",
+        "VIENNA:D11-ab-V2",
+        "VIENNA:D11-ab-V3",
+        "VIENNA:D11-ab-V4",
+        "VIENNA:D11-ba",
+        "VIENNA:D11-bb-V1",
+        "VIENNA:D11-bb-V2",
+        "VIENNA:D11-bb-V3",
+        "VIENNA:D11-bb-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:E1a",
+      "name": "Compulsory minimum speed applying to different lanes"
+    },
+    {
+      "reference": "VIENNA:E1b",
+      "name": "Compulsory minimum speed applying to one lane"
+    },
+    {
+      "reference": "VIENNA:E1c",
+      "name": "Speed limits applying to different lanes"
+    },
+    {
+      "reference": "VIENNA:E2",
+      "name": "Lanes reserved for buses"
+    },
+    {
+      "reference": "VIENNA:E3a",
+      "name": "One Way",
+      "description": "Sign E3 informs drivers that a street is regulated in such a way that traffic travels in one direction only. It may come in two models. Model Ea shall be a blue square with a forward facing arrow. Model Eb/c shall be a blue rectangle with an arrow facing to the left or right. It is optional to include the inscription \"ONE WAY\" inside the arrow, in the national language of the signatory country. The colour of the inscription is not specified.",
+      "declinations": [
+        "VIENNA:E3a-V1",
+        "VIENNA:E3a-c-V1",
+        "VIENNA:E3a-c-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:E3b",
+      "name": "One Way Right",
+      "description": "Sign E3 informs drivers that a street is regulated in such a way that traffic travels in one direction only. It may come in two models. Model Ea shall be a blue square with a forward facing arrow. Model Eb/c shall be a blue rectangle with an arrow facing to the left or right. It is optional to include the inscription \"ONE WAY\" inside the arrow, in the national language of the signatory country. The colour of the inscription is not specified.",
+      "declinations": [
+        "VIENNA:E3b-V1",
+        "VIENNA:E3b-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:E4",
+      "name": "Preselection sign"
+    },
+    {
+      "reference": "VIENNA:E5a",
+      "name": "Motorway",
+      "description": "Sign E5 informs drivers of the beginning and end of a motorway and the related driving restrictions that apply. To qualify as a motorway, a road must be a dual carriageway, have controlled access and exit points, and be grade-separated from any crossing roads by means of flyovers or underpasses. The road must also be designed to safely carry vehicles traveling at very high speeds. The symbol depicts a dual carriageway with a flyover. The sign may be blue or green.",
+      "declinations": [
+        "VIENNA:E5a-V1",
+        "VIENNA:E5a-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:E5b",
+      "name": "End of motorway",
+      "description": "Sign E5 informs drivers of the beginning and end of a motorway and the related driving restrictions that apply. To qualify as a motorway, a road must be a dual carriageway, have controlled access and exit points, and be grade-separated from any crossing roads by means of flyovers or underpasses. The road must also be designed to safely carry vehicles traveling at very high speeds. The symbol depicts a dual carriageway with a flyover. The sign may be blue or green.",
+      "declinations": [
+        "VIENNA:E5b-V1",
+        "VIENNA:E5b-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:E6a",
+      "name": "Road for Motor Vehicles",
+      "description": "Sign E6 informs drivers of the beginning and end of a roadway designed exclusively for the use of motor vehicles and which may have some of the characteristics of a motorway, such as controlled access, being a dual carriageway, and higher speed limits. The sign may be blue or green.",
+      "declinations": [
+        "VIENNA:E6a-V1",
+        "VIENNA:E6a-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:E6b",
+      "name": "End of Road for Motor Vehicles",
+      "description": "Sign E6 informs drivers of the beginning and end of a roadway designed exclusively for the use of motor vehicles and which may have some of the characteristics of a motorway, such as controlled access, being a dual carriageway, and higher speed limits. The sign may be blue or green.",
+      "declinations": [
+        "VIENNA:E6b-V1",
+        "VIENNA:E6b-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:E7a",
+      "name": "Beginning of a Built-Up Area (just the name of the place)",
+      "description": "Sign E7 informs drivers of the beginning of a built-up area, such as a village or residential development. It may come in several models.",
+      "declinations": [
+        "VIENNA:E7a-V1",
+        "VIENNA:E7a-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:E7b",
+      "name": "Beginning of a Built-Up Area (village silhouette)",
+      "description": "Sign E7 informs drivers of the beginning of a built-up area, such as a village or residential development. It may come in several models.",
+      "declinations": [
+        "VIENNA:E7b-V1",
+        "VIENNA:E7b-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:E7c",
+      "name": "Beginning of a Built-Up Area (name of the place and village silhouette)",
+      "description": "Sign E7 informs drivers of the beginning of a built-up area, such as a village or residential development. It may come in several models.",
+      "declinations": [
+        "VIENNA:E7c-V1",
+        "VIENNA:E7c-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:E7d",
+      "name": "Beginning of a Built-Up Area (name of the place with blue background)",
+      "description": "Sign E7 informs drivers of the beginning of a built-up area, such as a village or residential development. It may come in several models.",
+      "declinations": [
+        "VIENNA:E7d-V1",
+        "VIENNA:E7d-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:E8a",
+      "name": "End of a Built-Up Area",
+      "description": "Sign E8 informs drivers of the end of a built-up area, such as a village or residential development.",
+      "declinations": [
+        "VIENNA:E8a-V1",
+        "VIENNA:E8a-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:E8b",
+      "name": "End of a Built-Up Area (village silhouette)",
+      "description": "Sign E8 informs drivers of the end of a built-up area, such as a village or residential development.",
+      "declinations": [
+        "VIENNA:E8b-V1",
+        "VIENNA:E8b-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:E8c",
+      "name": "End of a Built-Up Area (name of the place and village silhouette)",
+      "description": "Sign E8 informs drivers of the end of a built-up area, such as a village or residential development.",
+      "declinations": [
+        "VIENNA:E8c-V1",
+        "VIENNA:E8c-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:E8d",
+      "name": "End of a Built-Up Area (name of the place with blue background)",
+      "description": "Sign E8 informs drivers of the end of a built-up area, such as a village or residential development.",
+      "declinations": [
+        "VIENNA:E8d-V1",
+        "VIENNA:E8d-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:E9a",
+      "name": "Zone in which parking is prohibited",
+      "declinations": [
+        "VIENNA:E9a-V1",
+        "VIENNA:E9a-V10",
+        "VIENNA:E9a-V11",
+        "VIENNA:E9a-V12",
+        "VIENNA:E9a-V2",
+        "VIENNA:E9a-V3",
+        "VIENNA:E9a-V4",
+        "VIENNA:E9a-V5",
+        "VIENNA:E9a-V6",
+        "VIENNA:E9a-V7",
+        "VIENNA:E9a-V8",
+        "VIENNA:E9a-V9"
+      ]
+    },
+    {
+      "reference": "VIENNA:E9b",
+      "name": "Zone in which parking is prohibited at certain times"
+    },
+    {
+      "reference": "VIENNA:E9c",
+      "name": "Parking zone"
+    },
+    {
+      "reference": "VIENNA:E9d",
+      "name": "Maximum speed zone"
+    },
+    {
+      "reference": "VIENNA:E10a",
+      "name": "End of zone in which parking is prohibited",
+      "declinations": [
+        "VIENNA:E10a-V1",
+        "VIENNA:E10a-V10",
+        "VIENNA:E10a-V11",
+        "VIENNA:E10a-V12",
+        "VIENNA:E10a-V13",
+        "VIENNA:E10a-V14",
+        "VIENNA:E10a-V15",
+        "VIENNA:E10a-V16",
+        "VIENNA:E10a-V2",
+        "VIENNA:E10a-V3",
+        "VIENNA:E10a-V4",
+        "VIENNA:E10a-V5",
+        "VIENNA:E10a-V6",
+        "VIENNA:E10a-V7",
+        "VIENNA:E10a-V8",
+        "VIENNA:E10a-V9"
+      ]
+    },
+    {
+      "reference": "VIENNA:E10b",
+      "name": "End of zone in which parking is prohibited at certain times"
+    },
+    {
+      "reference": "VIENNA:E10c",
+      "name": "End of parking zone"
+    },
+    {
+      "reference": "VIENNA:E10d",
+      "name": "End of maximum speed zone"
+    },
+    {
+      "reference": "VIENNA:E11a",
+      "name": "Tunnel",
+      "description": "Sign E11 indicates the beginning and end of a tunnel and of the related driving restrictions that apply. The sign is optional for tunnels of lengths under 1000 metres and mandatory for tunnels longer than 1000 metres. For tunnels longer than 1000 metres, the sign must include the length of the tunnel on the lower section or on a supplementary plate. The sign may also include other information, such as the name of the tunnel or the radio frequency for a dedicated radio service. The sign may also be used to give advance warning of a tunnel by including the distance to the tunnel on the lower section or on a supplementary plate and being placed some distance away from the entry to the tunnel.",
+      "declinations": [
+        "VIENNA:E11a-V1"
+      ]
+    },
+    {
+      "reference": "VIENNA:E11b",
+      "name": "End of Tunnel",
+      "description": "Sign E11 indicates the beginning and end of a tunnel and of the related driving restrictions that apply. The sign is optional for tunnels of lengths under 1000 metres and mandatory for tunnels longer than 1000 metres. For tunnels longer than 1000 metres, the sign must include the length of the tunnel on the lower section or on a supplementary plate. The sign may also include other information, such as the name of the tunnel or the radio frequency for a dedicated radio service. The sign may also be used to give advance warning of a tunnel by including the distance to the tunnel on the lower section or on a supplementary plate and being placed some distance away from the entry to the tunnel.",
+      "declinations": [
+        "VIENNA:E11b-V1"
+      ]
+    },
+    {
+      "reference": "VIENNA:E12a",
+      "name": "Pedestrian Crossing",
+      "description": "Sign E12 informs drivers of the exact location of a dedicated pedestrian crossing. It may come in three models. Model E12a shall consist of a square with an upwards-pointing triangle and the symbol of a pedestrian crossing. The square may be blue or black, the triangle may be white or yellow, and the symbol may be black or blue. Model E12b shall consist of an irregular pentagon with a blue ground and the symbol of a pedestrian crossing in white. Model E12c shall consist of a square with a \"dark ground\" and the symbol of a pedestrian crossing in white. This ambiguity in the description leaves it unclear if the sign should only be in blue, or may also be in black as with Model E12a . The Convention depicts the sign in blue. The symbol used on the sign shall be the same as that used on sign A12 which precedes it, which in turn shall reflect the markings on the pavement. The symbol shall be reversed for countries that drive on the left. The European Annex to the Vienna Convention forbids the use of Model E12b .",
+      "declinations": [
+        "VIENNA:E12a-a",
+        "VIENNA:E12a-a-LHT",
+        "VIENNA:E12a-a-V1",
+        "VIENNA:E12a-a-V1-LHT",
+        "VIENNA:E12a-a-V2",
+        "VIENNA:E12a-a-V2-LHT",
+        "VIENNA:E12a-a-V3",
+        "VIENNA:E12a-a-V3-LHT",
+        "VIENNA:E12a-a-V4",
+        "VIENNA:E12a-a-V4-LHT",
+        "VIENNA:E12a-a-V5",
+        "VIENNA:E12a-a-V5-LHT",
+        "VIENNA:E12a-a-V6",
+        "VIENNA:E12a-a-V6-LHT",
+        "VIENNA:E12a-a-V7",
+        "VIENNA:E12a-a-V7-LHT",
+        "VIENNA:E12a-a-V8",
+        "VIENNA:E12a-a-V8-LHT",
+        "VIENNA:E12a-b",
+        "VIENNA:E12a-b-LHT",
+        "VIENNA:E12a-b-V1",
+        "VIENNA:E12a-b-V1-LHT",
+        "VIENNA:E12a-b-V2",
+        "VIENNA:E12a-b-V2-LHT",
+        "VIENNA:E12a-b-V3",
+        "VIENNA:E12a-b-V3-LHT",
+        "VIENNA:E12a-b-V4",
+        "VIENNA:E12a-b-V4-LHT",
+        "VIENNA:E12a-b-V5",
+        "VIENNA:E12a-b-V5-LHT",
+        "VIENNA:E12a-b-V6",
+        "VIENNA:E12a-b-V6-LHT",
+        "VIENNA:E12a-b-V7",
+        "VIENNA:E12a-b-V7-LHT",
+        "VIENNA:E12a-b-V8",
+        "VIENNA:E12a-b-V8-LHT",
+        "VIENNA:E12a-c",
+        "VIENNA:E12a-c-LHT",
+        "VIENNA:E12a-c-V1",
+        "VIENNA:E12a-c-V1-LHT",
+        "VIENNA:E12a-c-V2",
+        "VIENNA:E12a-c-V2-LHT",
+        "VIENNA:E12a-c-V3",
+        "VIENNA:E12a-c-V3-LHT",
+        "VIENNA:E12a-c-V4",
+        "VIENNA:E12a-c-V4-LHT",
+        "VIENNA:E12a-c-V5",
+        "VIENNA:E12a-c-V5-LHT",
+        "VIENNA:E12a-c-V6",
+        "VIENNA:E12a-c-V6-LHT",
+        "VIENNA:E12a-c-V7",
+        "VIENNA:E12a-c-V7-LHT",
+        "VIENNA:E12a-c-V8",
+        "VIENNA:E12a-c-V8-LHT"
+      ]
+    },
+    {
+      "reference": "VIENNA:E12b",
+      "name": "Pedestrian Crossing (alternative)",
+      "description": "Sign E12 informs drivers of the exact location of a dedicated pedestrian crossing. It may come in three models. Model E12a shall consist of a square with an upwards-pointing triangle and the symbol of a pedestrian crossing. The square may be blue or black, the triangle may be white or yellow, and the symbol may be black or blue. Model E12b shall consist of an irregular pentagon with a blue ground and the symbol of a pedestrian crossing in white. Model E12c shall consist of a square with a \"dark ground\" and the symbol of a pedestrian crossing in white. This ambiguity in the description leaves it unclear if the sign should only be in blue, or may also be in black as with Model E12a . The Convention depicts the sign in blue. The symbol used on the sign shall be the same as that used on sign A12 which precedes it, which in turn shall reflect the markings on the pavement. The symbol shall be reversed for countries that drive on the left. The European Annex to the Vienna Convention forbids the use of Model E12b .",
+      "declinations": [
+        "VIENNA:E12b-a",
+        "VIENNA:E12b-a-LHT",
+        "VIENNA:E12b-b",
+        "VIENNA:E12b-b-LHT",
+        "VIENNA:E12b-c",
+        "VIENNA:E12b-c-LHT"
+      ]
+    },
+    {
+      "reference": "VIENNA:E12C",
+      "name": "Pedestrian Crossing (alternative)",
+      "description": "Sign E12 informs drivers of the exact location of a dedicated pedestrian crossing. It may come in three models. Model E12a shall consist of a square with an upwards-pointing triangle and the symbol of a pedestrian crossing. The square may be blue or black, the triangle may be white or yellow, and the symbol may be black or blue. Model E12b shall consist of an irregular pentagon with a blue ground and the symbol of a pedestrian crossing in white. Model E12c shall consist of a square with a \"dark ground\" and the symbol of a pedestrian crossing in white. This ambiguity in the description leaves it unclear if the sign should only be in blue, or may also be in black as with Model E12a . The Convention depicts the sign in blue. The symbol used on the sign shall be the same as that used on sign A12 which precedes it, which in turn shall reflect the markings on the pavement. The symbol shall be reversed for countries that drive on the left. The European Annex to the Vienna Convention forbids the use of Model E12b ."
+    },
+    {
+      "reference": "VIENNA:E13a",
+      "name": "Hospital (H symbol)",
+      "description": "Sign E13 indicates a hospital zone, reminding drivers to take precautions such as driving at a lower speed and avoiding unnecessary loud noise or use of their vehicle horn. This sign may also be used to direct drivers to the nearest hospital equipped with emergency facilities by means of incorporating it into other directional signs. The sign may come in two models. Model E13a shall consist of a blue square with the Latin letter H in white. Model E13b shall consist of a blue square with a hospital bed in the lower left corner in white. In the upper right corner shall be one of the three emblems of the International Red Cross and Red Crescent Movement recognized by the Geneva Convention of 1949. These symbols are the red cross, the red crescent, and the red lion and sun. The European Annex to the Vienna Convention mandates the use of the red cross symbol.",
+      "declinations": [
+        "VIENNA:E13a-V1"
+      ]
+    },
+    {
+      "reference": "VIENNA:E13b",
+      "name": "Hospital (Bed and cross symbol)",
+      "description": "Sign E13 indicates a hospital zone, reminding drivers to take precautions such as driving at a lower speed and avoiding unnecessary loud noise or use of their vehicle horn. This sign may also be used to direct drivers to the nearest hospital equipped with emergency facilities by means of incorporating it into other directional signs. The sign may come in two models. Model E13a shall consist of a blue square with the Latin letter H in white. Model E13b shall consist of a blue square with a hospital bed in the lower left corner in white. In the upper right corner shall be one of the three emblems of the International Red Cross and Red Crescent Movement recognized by the Geneva Convention of 1949. These symbols are the red cross, the red crescent, and the red lion and sun. The European Annex to the Vienna Convention mandates the use of the red cross symbol.",
+      "declinations": [
+        "VIENNA:E13b-V1",
+        "VIENNA:E13b-V2",
+        "VIENNA:E13b-V3"
+      ]
+    },
+    {
+      "reference": "VIENNA:E14a",
+      "name": "Parking",
+      "description": "Sign E14 indicates an area where parking is provided. The sign shall consist of a blue square, with the initial letter or ideogram used in the respective country to denote parking in white. Optionally, the sign can be used to indicate Park + Ride facilities. This sign may also be used to direct drivers to the nearest parking facilities by means of incorporating it into other direction signs. The European Annex to the Vienna Convention mandates the use of the Latin letter P .",
+      "declinations": [
+        "VIENNA:E14a-V1"
+      ]
+    },
+    {
+      "reference": "VIENNA:E14b",
+      "name": "Parking and Metro Station",
+      "description": "Sign E14 indicates an area where parking is provided. The sign shall consist of a blue square, with the initial letter or ideogram used in the respective country to denote parking in white. Optionally, the sign can be used to indicate Park + Ride facilities. This sign may also be used to direct drivers to the nearest parking facilities by means of incorporating it into other direction signs. The European Annex to the Vienna Convention mandates the use of the Latin letter P .",
+      "declinations": [
+        "VIENNA:E14b-V1"
+      ]
+    },
+    {
+      "reference": "VIENNA:E14c",
+      "name": "Parking and Train Station",
+      "description": "Sign E14 indicates an area where parking is provided. The sign shall consist of a blue square, with the initial letter or ideogram used in the respective country to denote parking in white. Optionally, the sign can be used to indicate Park + Ride facilities. This sign may also be used to direct drivers to the nearest parking facilities by means of incorporating it into other direction signs. The European Annex to the Vienna Convention mandates the use of the Latin letter P .",
+      "declinations": [
+        "VIENNA:E14c-V1"
+      ]
+    },
+    {
+      "reference": "VIENNA:E15",
+      "name": "Bus Stop",
+      "description": "Sign E15 indicates a bus stop.",
+      "declinations": [
+        "VIENNA:E15-V1"
+      ]
+    },
+    {
+      "reference": "VIENNA:E16",
+      "name": "Tram Stop",
+      "description": "Sign E16 indicates a tram stop.",
+      "declinations": [
+        "VIENNA:E16-V1"
+      ]
+    },
+    {
+      "reference": "VIENNA:E18a",
+      "name": "Emergency stopping place"
+    },
+    {
+      "reference": "VIENNA:E18b",
+      "name": "Emergency stopping place (alternative)"
+    },
+    {
+      "reference": "VIENNA:F1a",
+      "name": "First Aid Station (cross symbol)",
+      "description": "Sign F1 directs to the nearest first aid post. The symbol used shall be one of the three emblems of the International Red Cross and Red Crescent Movement recognized by the Geneva Convention of 1949. These symbols are the red cross, the red crescent, and the red lion and sun. The European Annex to the Vienna Convention mandates the use of the red cross symbol.",
+      "declinations": [
+        "VIENNA:F1a-V1",
+        "VIENNA:F1a-V2",
+        "VIENNA:F1a-V3",
+        "VIENNA:F1a-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:F1b",
+      "name": "First Aid Station (Moon symbol)",
+      "description": "Sign F1 directs to the nearest first aid post. The symbol used shall be one of the three emblems of the International Red Cross and Red Crescent Movement recognized by the Geneva Convention of 1949. These symbols are the red cross, the red crescent, and the red lion and sun. The European Annex to the Vienna Convention mandates the use of the red cross symbol.",
+      "declinations": [
+        "VIENNA:F1b-V1",
+        "VIENNA:F1b-V2",
+        "VIENNA:F1b-V3",
+        "VIENNA:F1b-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:F1c",
+      "name": "First Aid Station (Star of Life symbol)",
+      "description": "Sign F1 directs to the nearest first aid post. The symbol used shall be one of the three emblems of the International Red Cross and Red Crescent Movement recognized by the Geneva Convention of 1949. These symbols are the red cross, the red crescent, and the red lion and sun. The European Annex to the Vienna Convention mandates the use of the red cross symbol.",
+      "declinations": [
+        "VIENNA:F1c-V1",
+        "VIENNA:F1c-V2",
+        "VIENNA:F1c-V3",
+        "VIENNA:F1c-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:F2",
+      "name": "Breakdown Service",
+      "description": "Sign F2 directs to the nearest mechanic.",
+      "declinations": [
+        "VIENNA:F2-V1",
+        "VIENNA:F2-V2",
+        "VIENNA:F2-V3",
+        "VIENNA:F2-V4",
+        "VIENNA:F2-V5",
+        "VIENNA:F2-V6",
+        "VIENNA:F2-V7",
+        "VIENNA:F2-V8"
+      ]
+    },
+    {
+      "reference": "VIENNA:F3",
+      "name": "Telephone",
+      "description": "Sign F3 directs to the nearest public telephone.",
+      "declinations": [
+        "VIENNA:F3-V1",
+        "VIENNA:F3-V2",
+        "VIENNA:F3-V3",
+        "VIENNA:F3-V4",
+        "VIENNA:F3-V5",
+        "VIENNA:F3-V6",
+        "VIENNA:F3-V7",
+        "VIENNA:F3-V8"
+      ]
+    },
+    {
+      "reference": "VIENNA:F4",
+      "name": "Filling Station",
+      "description": "Sign F4 directs to the nearest petrol station.",
+      "declinations": [
+        "VIENNA:F4-V1",
+        "VIENNA:F4-V2",
+        "VIENNA:F4-V3",
+        "VIENNA:F4-V4",
+        "VIENNA:F4-V5",
+        "VIENNA:F4-V6",
+        "VIENNA:F4-V7",
+        "VIENNA:F4-V8"
+      ]
+    },
+    {
+      "reference": "VIENNA:F5",
+      "name": "Hotel or Motel",
+      "description": "Sign F5 directs to the nearest lodging.",
+      "declinations": [
+        "VIENNA:F5-V1",
+        "VIENNA:F5-V2",
+        "VIENNA:F5-V3",
+        "VIENNA:F5-V4",
+        "VIENNA:F5-V5",
+        "VIENNA:F5-V6",
+        "VIENNA:F5-V7",
+        "VIENNA:F5-V8"
+      ]
+    },
+    {
+      "reference": "VIENNA:F6",
+      "name": "Restaurant",
+      "description": "Sign F6 directs to the nearest full-service restaurant.",
+      "declinations": [
+        "VIENNA:F6-V1",
+        "VIENNA:F6-V2",
+        "VIENNA:F6-V3",
+        "VIENNA:F6-V4",
+        "VIENNA:F6-V5",
+        "VIENNA:F6-V6",
+        "VIENNA:F6-V7",
+        "VIENNA:F6-V8"
+      ]
+    },
+    {
+      "reference": "VIENNA:F7",
+      "name": "Refreshments or Cafeteria",
+      "description": "Sign F7 directs to the nearest place that serves beverages, snacks, and some light meals.",
+      "declinations": [
+        "VIENNA:F7-V1",
+        "VIENNA:F7-V2",
+        "VIENNA:F7-V3",
+        "VIENNA:F7-V4",
+        "VIENNA:F7-V5",
+        "VIENNA:F7-V6",
+        "VIENNA:F7-V7",
+        "VIENNA:F7-V8"
+      ]
+    },
+    {
+      "reference": "VIENNA:F8",
+      "name": "Picnic Site",
+      "description": "Sign F8 directs to the nearest area where travelers may take short rest breaks, walk around, and have picnics.",
+      "declinations": [
+        "VIENNA:F8-V1",
+        "VIENNA:F8-V2",
+        "VIENNA:F8-V3",
+        "VIENNA:F8-V4",
+        "VIENNA:F8-V5",
+        "VIENNA:F8-V6",
+        "VIENNA:F8-V7",
+        "VIENNA:F8-V8"
+      ]
+    },
+    {
+      "reference": "VIENNA:F9",
+      "name": "Starting Point for Walks",
+      "description": "Sign F9 directs to the nearest point with hiking or excursion trails.",
+      "declinations": [
+        "VIENNA:F9-V1",
+        "VIENNA:F9-V2",
+        "VIENNA:F9-V3",
+        "VIENNA:F9-V4",
+        "VIENNA:F9-V5",
+        "VIENNA:F9-V6",
+        "VIENNA:F9-V7",
+        "VIENNA:F9-V8"
+      ]
+    },
+    {
+      "reference": "VIENNA:F10",
+      "name": "Camping Site",
+      "description": "Sign F10 directs to the nearest camping grounds.",
+      "declinations": [
+        "VIENNA:F10-V1",
+        "VIENNA:F10-V2",
+        "VIENNA:F10-V3",
+        "VIENNA:F10-V4",
+        "VIENNA:F10-V5",
+        "VIENNA:F10-V6",
+        "VIENNA:F10-V7",
+        "VIENNA:F10-V8"
+      ]
+    },
+    {
+      "reference": "VIENNA:F11",
+      "name": "Caravan Site",
+      "description": "Sign F11 directs to the nearest caravan grounds.",
+      "declinations": [
+        "VIENNA:F11-V1",
+        "VIENNA:F11-V2",
+        "VIENNA:F11-V3",
+        "VIENNA:F11-V4",
+        "VIENNA:F11-V5",
+        "VIENNA:F11-V6",
+        "VIENNA:F11-V7",
+        "VIENNA:F11-V8"
+      ]
+    },
+    {
+      "reference": "VIENNA:F12",
+      "name": "Camping and Caravan Site",
+      "description": "Sign F12 directs to the nearest shared use grounds for camping and caravaning.",
+      "declinations": [
+        "VIENNA:F12-V1",
+        "VIENNA:F12-V2",
+        "VIENNA:F12-V3",
+        "VIENNA:F12-V4",
+        "VIENNA:F12-V5",
+        "VIENNA:F12-V6",
+        "VIENNA:F12-V7",
+        "VIENNA:F12-V8"
+      ]
+    },
+    {
+      "reference": "VIENNA:F13",
+      "name": "Youth Hostel",
+      "description": "Sign F13 directs to the nearest hostel.",
+      "declinations": [
+        "VIENNA:F13-V1",
+        "VIENNA:F13-V2",
+        "VIENNA:F13-V3",
+        "VIENNA:F13-V4",
+        "VIENNA:F13-V5",
+        "VIENNA:F13-V6",
+        "VIENNA:F13-V7",
+        "VIENNA:F13-V8"
+      ]
+    },
+    {
+      "reference": "VIENNA:F14",
+      "name": "Radio Stations Giving Traffic Information",
+      "description": "Sign F14 informs drivers of a radio station to tune into to receive traffic reports or other important information for the road on which they are traveling.",
+      "declinations": [
+        "VIENNA:F14-V1",
+        "VIENNA:F14-V2",
+        "VIENNA:F14-V3",
+        "VIENNA:F14-V4",
+        "VIENNA:F14-V5",
+        "VIENNA:F14-V6",
+        "VIENNA:F14-V7",
+        "VIENNA:F14-V8"
+      ]
+    },
+    {
+      "reference": "VIENNA:F15",
+      "name": "Public Lavatory",
+      "description": "Sign F15 directs to the nearest public lavatory facilities.",
+      "declinations": [
+        "VIENNA:F15-V1",
+        "VIENNA:F15-V2",
+        "VIENNA:F15-V3",
+        "VIENNA:F15-V4",
+        "VIENNA:F15-V5",
+        "VIENNA:F15-V6",
+        "VIENNA:F15-V7",
+        "VIENNA:F15-V8"
+      ]
+    },
+    {
+      "reference": "VIENNA:F16",
+      "name": "Beach or Swimming Pool",
+      "description": "Sign F16 directs to the nearest public swimming facilities.",
+      "declinations": [
+        "VIENNA:F16-V1",
+        "VIENNA:F16-V2",
+        "VIENNA:F16-V3",
+        "VIENNA:F16-V4",
+        "VIENNA:F16-V5",
+        "VIENNA:F16-V6",
+        "VIENNA:F16-V7",
+        "VIENNA:F16-V8"
+      ]
+    },
+    {
+      "reference": "VIENNA:F17",
+      "name": "Emergency Telephone",
+      "description": "Sign F17 directs to the nearest emergency telephone. Optionally, the symbol may be red.",
+      "declinations": [
+        "VIENNA:F17-V1",
+        "VIENNA:F17-V10",
+        "VIENNA:F17-V11",
+        "VIENNA:F17-V12",
+        "VIENNA:F17-V2",
+        "VIENNA:F17-V3",
+        "VIENNA:F17-V4",
+        "VIENNA:F17-V5",
+        "VIENNA:F17-V6",
+        "VIENNA:F17-V7",
+        "VIENNA:F17-V8",
+        "VIENNA:F17-V9"
+      ]
+    },
+    {
+      "reference": "VIENNA:F18",
+      "name": "Extinguisher",
+      "description": "Sign F18 directs to the nearest fire extinguisher. The symbol shall be red.",
+      "declinations": [
+        "VIENNA:F18-V1",
+        "VIENNA:F18-V2",
+        "VIENNA:F18-V3",
+        "VIENNA:F18-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:G1a",
+      "name": "Direction to be Followed to Reach Various Destinations"
+    },
+    {
+      "reference": "VIENNA:G1b",
+      "name": "Direction to be Followed to Reach Various Destinations (alternative)"
+    },
+    {
+      "reference": "VIENNA:G1c",
+      "name": "Direction to be Followed to Reach Various Destinations (alternative)"
+    },
+    {
+      "reference": "VIENNA:G2a",
+      "name": "No Through Road ahead"
+    },
+    {
+      "reference": "VIENNA:G2b",
+      "name": "No Through Road ahead (alternative)"
+    },
+    {
+      "reference": "VIENNA:G3",
+      "name": "Direction to take when other direction is prohibited"
+    },
+    {
+      "reference": "VIENNA:G4",
+      "name": "Direction of a place"
+    },
+    {
+      "reference": "VIENNA:G5",
+      "name": "Direction of a place (alternative)"
+    },
+    {
+      "reference": "VIENNA:G6a",
+      "name": "Direction of an airfield"
+    },
+    {
+      "reference": "VIENNA:G6b",
+      "name": "Direction of an airfield (alternative)"
+    },
+    {
+      "reference": "VIENNA:G6c",
+      "name": "Direction of an airfield (alternative)"
+    },
+    {
+      "reference": "VIENNA:G7",
+      "name": "Direction of a camping site"
+    },
+    {
+      "reference": "VIENNA:G8",
+      "name": "Direction of a youth hostel"
+    },
+    {
+      "reference": "VIENNA:G9",
+      "name": "Direction of a car parking"
+    },
+    {
+      "reference": "VIENNA:G10",
+      "name": "Confirmatory signs"
+    },
+    {
+      "reference": "VIENNA:G11a",
+      "name": "Number and direction of traffic lanes"
+    },
+    {
+      "reference": "VIENNA:G11b",
+      "name": "Number and direction of traffic lanes (alternative)"
+    },
+    {
+      "reference": "VIENNA:G11c",
+      "name": "Number and direction of central reservation crossings"
+    },
+    {
+      "reference": "VIENNA:G12a",
+      "name": "Narrowing of traffic lanes"
+    },
+    {
+      "reference": "VIENNA:G12b",
+      "name": "End of through lane"
+    },
+    {
+      "reference": "VIENNA:G13",
+      "name": "No Through Road",
+      "description": "Sign G13 indicates a road with only one exit. The European Annex mandates that the red bar be surrounded by a narrow white border. The Vienna Convention is silent on the matter.",
+      "declinations": [
+        "VIENNA:G13-EA",
+        "VIENNA:G13-V1"
+      ]
+    },
+    {
+      "reference": "VIENNA:G14",
+      "name": "General Speed Limits",
+      "description": "Sign G14 is placed at border crossings, airports, and other ports of entry, to quickly inform foreign drivers of the general speed limits of the country they are visiting.",
+      "declinations": [
+        "VIENNA:G14-V1-1",
+        "VIENNA:G14-V1-2",
+        "VIENNA:G14-V1-3",
+        "VIENNA:G14-V1-4",
+        "VIENNA:G14-V2-1",
+        "VIENNA:G14-V2-2",
+        "VIENNA:G14-V2-3",
+        "VIENNA:G14-V2-4",
+        "VIENNA:G14-V3-1",
+        "VIENNA:G14-V3-2",
+        "VIENNA:G14-V3-3",
+        "VIENNA:G14-V3-4",
+        "VIENNA:G14-V4-1",
+        "VIENNA:G14-V4-2",
+        "VIENNA:G14-V4-3",
+        "VIENNA:G14-V4-4",
+        "VIENNA:G14-V5-1",
+        "VIENNA:G14-V5-2",
+        "VIENNA:G14-V5-3",
+        "VIENNA:G14-V5-4",
+        "VIENNA:G14-V6-1",
+        "VIENNA:G14-V6-2",
+        "VIENNA:G14-V6-3",
+        "VIENNA:G14-V6-4"
+      ]
+    },
+    {
+      "reference": "VIENNA:G15",
+      "name": "Road Open or Closed"
+    },
+    {
+      "reference": "VIENNA:G16",
+      "name": "Chains or snow tyres recommended"
+    },
+    {
+      "reference": "VIENNA:G17",
+      "name": "Advisory Speed",
+      "description": "Sign G17 indicates the advised speed in situations where a set speed limit is inapplicable. As with sign C14 , it is optional to include a figure indicating the unit of speed after or below the number.",
+      "declinations": [
+        "VIENNA:G17-V1"
+      ]
+    },
+    {
+      "reference": "VIENNA:G18",
+      "name": "Advised Itinerary for Heavy Vehicles",
+      "description": "Sign G18 indicates the recommended route for heavy vehicles.",
+      "declinations": [
+        "VIENNA:G18-V1"
+      ]
+    },
+    {
+      "reference": "VIENNA:G19",
+      "name": "Escape Lane",
+      "description": "Sign G19 indicates an emergency escape lane on long steep descents for heavy vehicles that may suffer brake failure.",
+      "declinations": [
+        "VIENNA:G19-LHT",
+        "VIENNA:G19-V1"
+      ]
+    },
+    {
+      "reference": "VIENNA:G20",
+      "name": "Pedestrian Overpass or Underpass",
+      "description": "Sign G20 indicates a overpass or underpass for pedestrians.",
+      "declinations": [
+        "VIENNA:G20-V1",
+        "VIENNA:G20-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:G21",
+      "name": "Pedestrian Overpass or Underpass Without Stairs",
+      "description": "Sign G21 indicates a overpass or underpass for pedestrians without stairs. The accessible wheelchair symbol may also be used on this sign in place of the pedestrian figure.",
+      "declinations": [
+        "VIENNA:G21-V1",
+        "VIENNA:G21-V2",
+        "VIENNA:G21-V3",
+        "VIENNA:G21-V4"
+      ]
+    },
+    {
+      "reference": "VIENNA:G22a",
+      "name": "Countdown Beacons to a Motorway Exit (3 Beacons)",
+      "description": "Sign G22 begins a countdown of the distance to a motorway exit. It consists of a panel with a blue or green ground and white stripes. The stripes shall slant downwards towards the roadway. The signs shall bear a depiction of the distance they represent. The distances marked by these signs are not the same in every country and is dependent on domestic legislation. The three most common sequences are 300-200-100 metres, 300-150-75 metres, or 150-100-50 metres.",
+      "declinations": [
+        "VIENNA:G22a-V1",
+        "VIENNA:G22a-V1-LHT",
+        "VIENNA:G22a-V2",
+        "VIENNA:G22a-V2-LHT"
+      ]
+    },
+    {
+      "reference": "VIENNA:G22b",
+      "name": "Countdown Beacons to a Motorway Exit (2 Beacons)",
+      "description": "Sign G22 begins a countdown of the distance to a motorway exit. It consists of a panel with a blue or green ground and white stripes. The stripes shall slant downwards towards the roadway. The signs shall bear a depiction of the distance they represent. The distances marked by these signs are not the same in every country and is dependent on domestic legislation. The three most common sequences are 300-200-100 metres, 300-150-75 metres, or 150-100-50 metres.",
+      "declinations": [
+        "VIENNA:G22b-V1",
+        "VIENNA:G22b-V1-LHT",
+        "VIENNA:G22b-V2",
+        "VIENNA:G22b-V2-LHT"
+      ]
+    },
+    {
+      "reference": "VIENNA:G22c",
+      "name": "Countdown Beacons to a Motorway Exit (1 Beacon)",
+      "description": "Sign G22 begins a countdown of the distance to a motorway exit. It consists of a panel with a blue or green ground and white stripes. The stripes shall slant downwards towards the roadway. The signs shall bear a depiction of the distance they represent. The distances marked by these signs are not the same in every country and is dependent on domestic legislation. The three most common sequences are 300-200-100 metres, 300-150-75 metres, or 150-100-50 metres.",
+      "declinations": [
+        "VIENNA:G22c-V1",
+        "VIENNA:G22c-V1-LHT",
+        "VIENNA:G22c-V2",
+        "VIENNA:G22c-V2-LHT"
+      ]
+    },
+    {
+      "reference": "VIENNA:G23a",
+      "name": "Emergency Exit (left)",
+      "description": "Sign G23 indicates an emergency exit. The sign shall have a green ground. The symbol shall be white or \"of a light colour\".",
+      "declinations": [
+        "VIENNA:G23a-V1",
+        "VIENNA:G23a-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:G23b",
+      "name": "Emergency Exit (right)",
+      "description": "Sign G23 indicates an emergency exit. The sign shall have a green ground. The symbol shall be white or \"of a light colour\".",
+      "declinations": [
+        "VIENNA:G23b-V1",
+        "VIENNA:G23b-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:G24a",
+      "name": "Direction to an Emergency Exit (left)",
+      "description": "Sign G24 indicates the direction and distance to the nearest emergency exit. The sign shall have a green ground. The symbol shall be white or \"of a light colour\".",
+      "declinations": [
+        "VIENNA:G24a-V1",
+        "VIENNA:G24a-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:G24b",
+      "name": "Direction to an Emergency Exit (right)",
+      "description": "Sign G24 indicates the direction and distance to the nearest emergency exit. The sign shall have a green ground. The symbol shall be white or \"of a light colour\".",
+      "declinations": [
+        "VIENNA:G24b-V1",
+        "VIENNA:G24b-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:G24c",
+      "name": "Direction to an Emergency Exit (right and left)",
+      "description": "Sign G24 indicates the direction and distance to the nearest emergency exit. The sign shall have a green ground. The symbol shall be white or \"of a light colour\".",
+      "declinations": [
+        "VIENNA:G24c-V1",
+        "VIENNA:G24c-V2"
+      ]
+    },
+    {
+      "reference": "VIENNA:H1",
+      "name": "Distance from the sign to the beginning of the dangerous section of road or of the zone to which the regulation applies",
+      "description": "Sign H1 indicates the distance at which the sign it is placed below applies. For example, if placed below sign A17 , it would indicate that traffic signals are 200 metres ahead.",
+      "declinations": [
+        "VIENNA:H1-V1-1",
+        "VIENNA:H1-V1-2",
+        "VIENNA:H1-V1-3",
+        "VIENNA:H1-V1-4",
+        "VIENNA:H1-V2-1",
+        "VIENNA:H1-V2-2",
+        "VIENNA:H1-V2-3",
+        "VIENNA:H1-V2-4",
+        "VIENNA:H1-V3-1",
+        "VIENNA:H1-V3-2",
+        "VIENNA:H1-V3-3",
+        "VIENNA:H1-V3-4",
+        "VIENNA:H1-V4-1",
+        "VIENNA:H1-V4-2",
+        "VIENNA:H1-V4-3",
+        "VIENNA:H1-V4-4",
+        "VIENNA:H1-V4-5",
+        "VIENNA:H1-V4-6",
+        "VIENNA:H1-V5-1",
+        "VIENNA:H1-V5-2",
+        "VIENNA:H1-V5-3",
+        "VIENNA:H1-V5-4",
+        "VIENNA:H1-V5-5",
+        "VIENNA:H1-V5-6"
+      ]
+    },
+    {
+      "reference": "VIENNA:H2",
+      "name": "Length of the dangerous section of road or of the zone to which the regulation applies"
+    },
+    {
+      "reference": "VIENNA:H3a",
+      "name": "... Metres Ahead (left)"
+    },
+    {
+      "reference": "VIENNA:H3b",
+      "name": "... Metres Ahead (right and left)"
+    },
+    {
+      "reference": "VIENNA:H3c",
+      "name": "... Metres Ahead (right)"
+    },
+    {
+      "reference": "VIENNA:H4a",
+      "name": "Before the sign"
+    },
+    {
+      "reference": "VIENNA:H4b",
+      "name": "Before and After the sign"
+    },
+    {
+      "reference": "VIENNA:H4c",
+      "name": "After the sign"
+    },
+    {
+      "reference": "VIENNA:H5a",
+      "name": "Applicability to trucks"
+    },
+    {
+      "reference": "VIENNA:H5b",
+      "name": "Applicability to trucks with trailer"
+    },
+    {
+      "reference": "VIENNA:H6",
+      "name": "Except trams"
+    },
+    {
+      "reference": "VIENNA:H7",
+      "name": "Applicability to handicapped persons"
+    },
+    {
+      "reference": "VIENNA:H8",
+      "name": "Diagram of the intersection"
+    },
+    {
+      "reference": "VIENNA:H9",
+      "name": "When it snows or is icy"
+    }
+  ]
+}
